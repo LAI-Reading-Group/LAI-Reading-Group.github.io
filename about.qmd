@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+Lancaster AI (**LAI**) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people (postgraduate students, postdoc, faculty members) who wish to learn more about the recent developments of AI. This reading group ties in nicely with the [Prob_AI Hub](https://www.probai.uk/).
+
+The website is maintained by [Rui Zhang](https://shusheng3927.github.io/). 
+
+## Current Members 
+
+- [Thomas Newman](https://www.lancaster.ac.uk/stor-i-student-sites/thomas-newman/)
+- [Chris Nemeth](https://chris-nemeth.github.io/)
+- [Connie Trojan](https://www.lancaster.ac.uk/stor-i-student-sites/connie-trojan/)
+- [Rui Zhang](https://shusheng3927.github.io/)
