@@ -8,6 +8,7 @@ The website is maintained by [Rui Zhang](https://shusheng3927.github.io/).
 
 ## Current Members 
 
+- [David Leslie](https://www.lancaster.ac.uk/maths/people/david-leslie)
 - [Thomas Newman](https://www.lancaster.ac.uk/stor-i-student-sites/thomas-newman/)
 - [Chris Nemeth](https://chris-nemeth.github.io/)
 - [Connie Trojan](https://www.lancaster.ac.uk/stor-i-student-sites/connie-trojan/)
