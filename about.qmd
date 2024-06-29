@@ -8,8 +8,10 @@ The website is maintained by [Rui Zhang](https://shusheng3927.github.io/).
 
 ## Current Members 
 
+- [Miles Elvidge](https://www.research.lancs.ac.uk/portal/en/people/miles-elvidge(4b25b20a-4773-47ee-a688-b093352c961e).html)
 - [David Leslie](https://www.lancaster.ac.uk/maths/people/david-leslie)
 - [Thomas Newman](https://www.lancaster.ac.uk/stor-i-student-sites/thomas-newman/)
 - [Chris Nemeth](https://chris-nemeth.github.io/)
 - [Connie Trojan](https://www.lancaster.ac.uk/stor-i-student-sites/connie-trojan/)
+- [Lanya Yang](https://www.lancaster.ac.uk/stor-i-student-sites/lanya-yang/)
 - [Rui Zhang](https://shusheng3927.github.io/)
