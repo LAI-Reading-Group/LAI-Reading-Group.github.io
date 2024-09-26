@@ -1,0 +1,20 @@
+---
+title: "Resources"
+---
+
+## Diffusion Models (Term 1, 24-25)
+
+### Tutorials
+
+- [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)
+- [Denoising Diffusion Probabilistic Models in Six Simple Steps](https://arxiv.org/abs/2402.04384)
+- [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
+
+### Blogs and Videos 
+- [Song Yang's Blog Post on Diffusion](https://yang-song.net/blog/2021/score/)
+- [Diffusion Models | PyTorch Implementation](https://youtu.be/TBCRlnwJtZU?si=oO6pxZyHbDzXPmfR)
+- [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=iet3Zx-S7LtZ_fvH)
+
+## General Machine Learning Textbooks
+- [Probabilistic Machine Learning 1 - Kevin Murphy](https://probml.github.io/pml-book/book1.html)
+- [Probabilistic Machine Learning 2 - Kevin Murphy](https://probml.github.io/pml-book/book2.html)

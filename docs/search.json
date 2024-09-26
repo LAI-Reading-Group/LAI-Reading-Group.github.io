@@ -4,20 +4,41 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people (postgraduate students, postdoc, faculty members) who wish to learn more about the recent developments of AI. This reading group ties in nicely with the Prob_AI Hub."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models, following Step-by-Step Diffusion: An Elementary Tutorial.\n\n\n\nThe Most Famous Dog in Machine Learning"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people (postgraduate students, postdoc, faculty members) who wish to learn more about the recent developments of AI. This reading group ties in nicely with the Prob_AI Hub.\nThe website is currently maintained by Rui Zhang."
+    "text": "The website is currently maintained by Rui Zhang."
   },
   {
     "objectID": "about.html#current-members",
     "href": "about.html#current-members",
     "title": "About",
     "section": "Current Members",
-    "text": "Current Members\n\nDan Dodd\nMiles Elvidge\nDavid Leslie\nThomas Newman\nChris Nemeth\nTamás P. Papp\nConnie Trojan\nLanya Yang\nRui Zhang"
+    "text": "Current Members\n\nEduard Campillo-Funollet\nDan Dodd\nMiles Elvidge\nDavid Leslie\nThomas Newman\nChris Nemeth\nAndreas Makris\nHenry Moss\nTamás P. Papp\nConnie Trojan\nLanya Yang\nRui Zhang"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Step-by-Step Diffusion: An Elementary Tutorial\nDenoising Diffusion Probabilistic Models in Six Simple Steps\nTutorial on Diffusion Models for Imaging and Vision\n\n\n\n\n\nSong Yang’s Blog Post on Diffusion\nDiffusion Models | PyTorch Implementation\nDiffusion Models | Paper Explanation | Math Explained"
+  },
+  {
+    "objectID": "resources.html#diffusion-models-term-1-24-25",
+    "href": "resources.html#diffusion-models-term-1-24-25",
+    "title": "Resources",
+    "section": "",
+    "text": "Step-by-Step Diffusion: An Elementary Tutorial\nDenoising Diffusion Probabilistic Models in Six Simple Steps\nTutorial on Diffusion Models for Imaging and Vision\n\n\n\n\n\nSong Yang’s Blog Post on Diffusion\nDiffusion Models | PyTorch Implementation\nDiffusion Models | Paper Explanation | Math Explained"
+  },
+  {
+    "objectID": "resources.html#general-machine-learning-textbooks",
+    "href": "resources.html#general-machine-learning-textbooks",
+    "title": "Resources",
+    "section": "General Machine Learning Textbooks",
+    "text": "General Machine Learning Textbooks\n\nProbabilistic Machine Learning 1 - Kevin Murphy\nProbabilistic Machine Learning 2 - Kevin Murphy"
   }
 ]
