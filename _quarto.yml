@@ -4,7 +4,9 @@ project:
 
 website:
   title: "LAI Reading Group"
+  favicon: lai.svg
   navbar:
+    logo: lai.svg
     left:
       - href: index.qmd
         text: Home
