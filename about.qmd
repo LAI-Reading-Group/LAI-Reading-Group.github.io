@@ -9,6 +9,7 @@ The website is currently maintained by [Rui Zhang](https://shusheng3927.github.i
 - [Eduard Campillo-Funollet](https://www.lancaster.ac.uk/maths/people/eduard-campillo-funollet)
 - [Dan Dodd](https://www.lancaster.ac.uk/sci-tech/about-us/people/daniel-dodd)
 - [Miles Elvidge](https://www.research.lancs.ac.uk/portal/en/people/miles-elvidge(4b25b20a-4773-47ee-a688-b093352c961e).html)
+- [Yuga Iguchi](https://www.yugaiguchi.com)
 - [David Leslie](https://www.lancaster.ac.uk/maths/people/david-leslie)
 - [Thomas Newman](https://www.lancaster.ac.uk/stor-i-student-sites/thomas-newman/)
 - [Chris Nemeth](https://chris-nemeth.github.io/)
