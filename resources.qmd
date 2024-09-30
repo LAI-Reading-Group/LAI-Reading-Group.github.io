@@ -14,11 +14,14 @@ title: "Resources"
 
 - [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
+- [A Unified Framework for U-Net Design and Analysis](https://arxiv.org/pdf/2305.19638)
 
 ### Blogs and Videos 
 - [Song Yang's Blog Post on Diffusion](https://yang-song.net/blog/2021/score/)
 - [Diffusion Models | PyTorch Implementation](https://youtu.be/TBCRlnwJtZU?si=oO6pxZyHbDzXPmfR)
 - [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=iet3Zx-S7LtZ_fvH)
+- [Score-based Generative Modeling in Latent Space](https://nvlabs.github.io/LSGM/)
 
 ## General Machine Learning Textbooks
 - [Probabilistic Machine Learning 1 - Kevin Murphy](https://probml.github.io/pml-book/book1.html)
