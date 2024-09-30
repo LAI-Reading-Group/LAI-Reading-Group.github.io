@@ -10,6 +10,11 @@ title: "Resources"
 - [Denoising Diffusion Probabilistic Models in Six Simple Steps](https://arxiv.org/abs/2402.04384)
 - [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 
+### Papers and Surveys
+
+- [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
+
 ### Blogs and Videos 
 - [Song Yang's Blog Post on Diffusion](https://yang-song.net/blog/2021/score/)
 - [Diffusion Models | PyTorch Implementation](https://youtu.be/TBCRlnwJtZU?si=oO6pxZyHbDzXPmfR)
