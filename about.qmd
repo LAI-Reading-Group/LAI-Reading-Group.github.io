@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-The website is currently maintained by [Rui Zhang](https://shusheng3927.github.io/). 
+The website is currently maintained by [Rui Zhang](https://shusheng3927.github.io/) and [Andreas Makris](https://www.linkedin.com/in/andreas-makris-41868b225/). 
 
 ## Current Members 
 
