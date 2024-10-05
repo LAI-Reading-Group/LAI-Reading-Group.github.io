@@ -28,3 +28,4 @@ title: "Resources"
 - [Probabilistic Machine Learning 2 - Kevin Murphy](https://probml.github.io/pml-book/book2.html)
 - [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
 - [Deep Learning Foundations and Concepts - Chris and Hugh Bishop](https://www.bishopbook.com)
+
