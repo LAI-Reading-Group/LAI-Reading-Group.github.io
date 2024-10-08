@@ -6,5 +6,11 @@ Lancaster AI (**LAI**) reading group is a weekly reading group focusing on topic
 
 In Term 1 24-25, we are learning **diffusion models**, following [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929). 
 
-![The Most Famous Dog in Machine Learning](./songyang_dog)
+### Schedule
 
+| Title | Location | Date | Time | Speaker |
+|:---------:|:------:|:---:|:---:|:-:|
+| A Brief Overview of Diffusion Models      | Fylde D31 (and Teams)  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |
+
+
+![The Most Famous Dog in Machine Learning](./songyang_dog)
