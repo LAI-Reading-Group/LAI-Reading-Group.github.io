@@ -4,7 +4,11 @@ title: "LAI Reading Group"
 
 Lancaster AI (**LAI**) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the [Prob_AI Hub](https://www.probai.uk/).
 
-In Term 1 24-25, we are learning **diffusion models**, following [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929). 
+In Term 1 24-25, we are learning **diffusion models**. 
+
+**Fylde D31 and over Teams; Wednessday 2-3pm (mostly)**.  
+
+Email [Rui](mailto:r.zhang26@lancaster.ac.uk) for any question related to the reading group.  
 
 ### Schedule
 

@@ -4,6 +4,8 @@ title: "About"
 
 The website is currently maintained by [Rui Zhang](https://shusheng3927.github.io/) and [Andreas Makris](https://www.linkedin.com/in/andreas-makris-41868b225/). 
 
+Email [Rui](mailto:r.zhang26@lancaster.ac.uk) for any question related to the reading group. 
+
 ## Current Members 
 
 - [Eduard Campillo-Funollet](https://www.lancaster.ac.uk/maths/people/eduard-campillo-funollet)
