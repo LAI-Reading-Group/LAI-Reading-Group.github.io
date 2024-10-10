@@ -4,7 +4,7 @@ title: "About"
 
 The website is currently maintained by [Rui Zhang](https://shusheng3927.github.io/) and [Andreas Makris](https://www.linkedin.com/in/andreas-makris-41868b225/). 
 
-Email [Rui](mailto:r.zhang26@lancaster.ac.uk) for any question related to the reading group. 
+Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lancaster.ac.uk) for any question related to the reading group. 
 
 ## Current Members 
 
@@ -23,3 +23,5 @@ Email [Rui](mailto:r.zhang26@lancaster.ac.uk) for any question related to the re
 - [Connie Trojan](https://www.lancaster.ac.uk/stor-i-student-sites/connie-trojan/)
 - [Lanya Yang](https://www.lancaster.ac.uk/stor-i-student-sites/lanya-yang/)
 - [Rui Zhang](https://shusheng3927.github.io/)
+- [Paul Fearnhead](https://www.lancaster.ac.uk/maths/people/paul-fearnhead)
+- [Chris Sherlock](https://www.lancaster.ac.uk/maths/people/christopher-sherlock)
