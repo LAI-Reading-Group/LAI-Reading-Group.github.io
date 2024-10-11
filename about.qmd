@@ -9,8 +9,10 @@ Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lanca
 ## Current Members 
 
 - [Eduard Campillo-Funollet](https://www.lancaster.ac.uk/maths/people/eduard-campillo-funollet)
+- [Lloyd Chapman](https://www.lancaster.ac.uk/maths/people/lloyd-chapman)
 - [Dan Dodd](https://www.lancaster.ac.uk/sci-tech/about-us/people/daniel-dodd)
 - [Miles Elvidge](https://www.research.lancs.ac.uk/portal/en/people/miles-elvidge(4b25b20a-4773-47ee-a688-b093352c961e).html)
+- [Paul Fearnhead](https://www.lancaster.ac.uk/maths/people/paul-fearnhead)
 - [Yuga Iguchi](https://www.yugaiguchi.com)
 - [David Leslie](https://www.lancaster.ac.uk/maths/people/david-leslie)
 - [Andreas Makris](https://www.linkedin.com/in/andreas-makris-41868b225/)
@@ -18,10 +20,9 @@ Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lanca
 - [Thomas Newman](https://www.lancaster.ac.uk/stor-i-student-sites/thomas-newman/)
 - [Chris Nemeth](https://chris-nemeth.github.io/)
 - [Tamás P. Papp](https://www.lancaster.ac.uk/stor-i-student-sites/tamas-papp/)
+- [Chris Sherlock](https://chrisgsherlock.github.io/)
 - [Theodore Tollet](https://www.lancaster.ac.uk/maths/people/theodore-tollet)
 - [Jack Trainer](https://www.lancaster.ac.uk/stor-i/about-us/people/jack-trainer)
 - [Connie Trojan](https://www.lancaster.ac.uk/stor-i-student-sites/connie-trojan/)
 - [Lanya Yang](https://www.lancaster.ac.uk/stor-i-student-sites/lanya-yang/)
 - [Rui Zhang](https://shusheng3927.github.io/)
-- [Paul Fearnhead](https://www.lancaster.ac.uk/maths/people/paul-fearnhead)
-- [Chris Sherlock](https://www.lancaster.ac.uk/maths/people/christopher-sherlock)
