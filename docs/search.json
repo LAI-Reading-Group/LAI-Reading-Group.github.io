@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nEmail Rui or Andreas for any question related to the reading group.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Deep Learning\nFylde D31 (and Teams)\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\n\n\n\n\nThe Most Famous Dog in Machine Learning"
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Deep Learning\nFylde D31 (and Teams)\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nThe Most Famous Dog in Machine Learning"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "about.html#current-members",
     "title": "About",
     "section": "Current Members",
-    "text": "Current Members\n\nEduard Campillo-Funollet\nLloyd Chapman\nDan Dodd\nMiles Elvidge\nPaul Fearnhead\nYuga Iguchi\nDavid Leslie\nAndreas Makris\nHenry Moss\nThomas Newman\nChris Nemeth\nTamás P. Papp\nChris Sherlock\nTheodore Tollet\nJack Trainer\nConnie Trojan\nLanya Yang\nRui Zhang"
+    "text": "Current Members\n\nSoheil Arabzadeh\nEduard Campillo-Funollet\nLloyd Chapman\nDan Dodd\nMiles Elvidge\nPaul Fearnhead\nYuga Iguchi\nDavid Leslie\nAndreas Makris\nHenry Moss\nThomas Newman\nChris Nemeth\nTamás P. Papp\nChris Sherlock\nTheodore Tollet\nJack Trainer\nConnie Trojan\nLanya Yang\nRui Zhang\nKai Zheng"
   },
   {
     "objectID": "resources.html",
@@ -60,7 +60,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\n\nA Brief Overview of Diffusion Models\n16 Oct 2024\nRui\nScore Based Diffusion paper  Diffusion Models Survey"
   },
   {
     "objectID": "past.html#schedule",
@@ -74,6 +74,20 @@
     "href": "past.html#past-sessions",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\n\nA Brief Overview of Diffusion Models\n16 Oct 2024\nRui\nScore-Based Generative Modeling through Stochastic Differential Equations  Diffusion Models: A Comprehensive Survey of Methods and Applications"
+  },
+  {
+    "objectID": "schedules.html",
+    "href": "schedules.html",
+    "title": "Schedules",
+    "section": "",
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nCommercial Diffusion Models\nFylde D31\n4 Dec 2024\n2pm - 3pm\nJack\n\n\nLatent Diffusion\nFylde D31\n27 Nov 2024\n2pm - 3pm\nLanya\n\n\nConditional Diffusions\nFylde D31\n20 Nov 2024\n2pm - 3pm\nTamas\n\n\nU Nets and NN Architectures\nFylde D31\n13 Nov 2024\n2pm - 3pm\nJack\n\n\nScore Matching\nFylde D31\n6 Nov 2024\n2pm - 3pm\nConnie\n\n\nDenoising Diffusion Probabilistic Models\nFylde D31\n30 Oct 2024\n2pm - 3pm\nAndreas\n\n\nIntroduction to Deep Learning\nFylde D31\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\nA Brief Overview of Diffusion Models\nFylde D31\n16 Oct 2024\n2.30pm - 3pm\nRui"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nCommercial Diffusion Models\nFylde D31\n4 Dec 2024\n2pm - 3pm\nJack\n\n\nLatent Diffusion\nFylde D31\n27 Nov 2024\n2pm - 3pm\nLanya\n\n\nConditional Diffusions\nFylde D31\n20 Nov 2024\n2pm - 3pm\nTamas\n\n\nU Nets and NN Architectures\nFylde D31\n13 Nov 2024\n2pm - 3pm\nJack\n\n\nScore Matching\nFylde D31\n6 Nov 2024\n2pm - 3pm\nConnie\n\n\nDenoising Diffusion Probabilistic Models\nFylde D31\n30 Oct 2024\n2pm - 3pm\nAndreas\n\n\nIntroduction to Deep Learning\nFylde D31\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\nA Brief Overview of Diffusion Models\nFylde D31\n16 Oct 2024\n2.30pm - 3pm\nRui"
   }
 ]

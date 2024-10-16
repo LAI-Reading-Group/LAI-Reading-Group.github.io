@@ -2,8 +2,6 @@
 title: "Past Sessions"
 ---
 
-## Past Sessions
-
-| Title | Location | Date | Time | Speaker |
-|:---------:|:------:|:---:|:---:|:-:|
-| A Brief Overview of Diffusion Models      | Fylde D31 (and Teams)  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |
+| Title |  Date  | Speaker | References |
+|:----:|:---:|:---:|:-:|:-------------------:|
+| A Brief Overview of Diffusion Models      |  16 Oct 2024 |  Rui     | [Score Based Diffusion paper](https://arxiv.org/abs/2011.13456) <br/> [Diffusion Models Survey](https://arxiv.org/abs/2209.00796) |

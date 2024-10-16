@@ -1,0 +1,14 @@
+---
+title: "Schedule"
+---
+
+| Title | Location | Date | Time | Speaker |
+|:----------:|:-----:|:---:|:---:|:-:|
+| Commercial Diffusion Models      | Fylde D31  | 4 Dec 2024 |   2pm - 3pm   |   Jack    |
+| Latent Diffusion      | Fylde D31  |  27 Nov 2024 |   2pm - 3pm   |   Lanya    |
+| Conditional Diffusions      | Fylde D31   | 20 Nov 2024 |   2pm - 3pm   |    Tamas   |
+| U Nets and NN Architectures      | Fylde D31 |  13 Nov 2024 |   2pm - 3pm   |   Jack    |
+| Score Matching      | Fylde D31 |  6 Nov 2024 |   2pm - 3pm   |   Connie    |
+| Denoising Diffusion Probabilistic Models      | Fylde D31 | 30 Oct 2024 |   2pm - 3pm   |      Andreas |
+| Introduction to Deep Learning      | Fylde D31   | 23 Oct 2024 |   2pm - 3pm   |    Andreas   |
+| A Brief Overview of Diffusion Models      | Fylde D31  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |
