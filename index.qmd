@@ -10,11 +10,12 @@ In Term 1 24-25, we are learning **diffusion models**.
 
 Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lancaster.ac.uk) for any question related to the reading group.  
 
-### Schedule
+### Next Session
 
 | Title | Location | Date | Time | Speaker |
 |:---------:|:------:|:---:|:---:|:-:|
-| A Brief Overview of Diffusion Models      | Fylde D31 (and Teams)  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |
+| Introduction to Deep Learning      | Fylde D31 (and Teams)  | 23 Oct 2024 |   2pm - 3pm   |    Andreas   |
+
 
 
 ![The Most Famous Dog in Machine Learning](./songyang_dog)

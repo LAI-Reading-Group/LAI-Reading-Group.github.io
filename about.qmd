@@ -6,6 +6,19 @@ The website is currently maintained by [Rui Zhang](https://shusheng3927.github.i
 
 Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lancaster.ac.uk) for any question related to the reading group. 
 
+## Schedule
+
+| Title | Location | Date | Time | Speaker |
+|:---------:|:------:|:---:|:---:|:-:|
+| Commercial Diffusion Models      | Fylde D31 (and Teams)  | 4 Dec 2024 |   2pm - 3pm   |   Jack    |
+| Conditional Diffusions      | Fylde D31 (and Teams)  | 27 Nov 2024 |   2pm - 3pm   |    Tamas   |
+| Latent Diffusion      | Fylde D31 (and Teams)  |  20 Nov 2024 |   2pm - 3pm   |   Lanya    |
+| U Nets and NN Architectures      | Fylde D31 (and Teams)  |  13 Nov 2024 |   2pm - 3pm   |   Jack    |
+| Score Matching      | Fylde D31 (and Teams)  |  6 Nov 2024 |   2pm - 3pm   |   Connie    |
+| Derivations of Diffusion Models      | Fylde D31 (and Teams)  | 30 Oct 2024 |   2pm - 3pm   |      Andreas |
+| Introduction to Deep Learning      | Fylde D31 (and Teams)  | 23 Oct 2024 |   2pm - 3pm   |    Andreas   |
+| A Brief Overview of Diffusion Models      | Fylde D31 (and Teams)  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |
+
 ## Current Members 
 
 - [Eduard Campillo-Funollet](https://www.lancaster.ac.uk/maths/people/eduard-campillo-funollet)

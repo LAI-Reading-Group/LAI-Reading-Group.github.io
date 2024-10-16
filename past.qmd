@@ -1,0 +1,9 @@
+---
+title: "Past Sessions"
+---
+
+## Past Sessions
+
+| Title | Location | Date | Time | Speaker |
+|:---------:|:------:|:---:|:---:|:-:|
+| A Brief Overview of Diffusion Models      | Fylde D31 (and Teams)  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nEmail Rui or Andreas for any question related to the reading group.\n\nSchedule\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui\n\n\n\n\n\n\nThe Most Famous Dog in Machine Learning"
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nEmail Rui or Andreas for any question related to the reading group.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Deep Learning\nFylde D31 (and Teams)\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\n\n\n\n\nThe Most Famous Dog in Machine Learning"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,40 @@
     "title": "Resources",
     "section": "General Machine Learning Textbooks",
     "text": "General Machine Learning Textbooks\n\nProbabilistic Machine Learning 1 - Kevin Murphy\nProbabilistic Machine Learning 2 - Kevin Murphy\nMathematics for Machine Learning\nDeep Learning Foundations and Concepts - Chris and Hugh Bishop"
+  },
+  {
+    "objectID": "about.html#schedule",
+    "href": "about.html#schedule",
+    "title": "About",
+    "section": "Schedule",
+    "text": "Schedule\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nCommercial Diffusion Models\nFylde D31 (and Teams)\n4 Dec 2024\n2pm - 3pm\nJack\n\n\nConditional Diffusions\nFylde D31 (and Teams)\n27 Nov 2024\n2pm - 3pm\nTamas\n\n\nLatent Diffusion\nFylde D31 (and Teams)\n20 Nov 2024\n2pm - 3pm\nLanya\n\n\nU Nets and NN Architectures\nFylde D31 (and Teams)\n13 Nov 2024\n2pm - 3pm\nJack\n\n\nScore Matching\nFylde D31 (and Teams)\n6 Nov 2024\n2pm - 3pm\nConnie\n\n\nDerivations of Diffusion Models\nFylde D31 (and Teams)\n30 Oct 2024\n2pm - 3pm\nAndreas\n\n\nIntroduction to Deep Learning\nFylde D31 (and Teams)\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui"
+  },
+  {
+    "objectID": "index.html#next-session",
+    "href": "index.html#next-session",
+    "title": "LAI Reading Group",
+    "section": "Next Session",
+    "text": "Next Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Deep Learning\nFylde D31 (and Teams)\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\n\n\n\n\nThe Most Famous Dog in Machine Learning"
+  },
+  {
+    "objectID": "past.html",
+    "href": "past.html",
+    "title": "Past Sessions",
+    "section": "",
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui"
+  },
+  {
+    "objectID": "past.html#schedule",
+    "href": "past.html#schedule",
+    "title": "Past Sessions",
+    "section": "",
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nCommercial Diffusion Models\nFylde D31 (and Teams)\n4 Dec 2024\n2pm - 3pm\nJack\n\n\nConditional Diffusions\nFylde D31 (and Teams)\n27 Nov 2024\n2pm - 3pm\nTamas\n\n\nLatent Diffusion\nFylde D31 (and Teams)\n20 Nov 2024\n2pm - 3pm\nLanya\n\n\nU Nets and NN Architectures\nFylde D31 (and Teams)\n13 Nov 2024\n2pm - 3pm\nJack\n\n\nScore Matching\nFylde D31 (and Teams)\n6 Nov 2024\n2pm - 3pm\nConnie\n\n\nDerivations of Diffusion Models\nFylde D31 (and Teams)\n30 Oct 2024\n2pm - 3pm\nAndreas\n\n\nIntroduction to Deep Learning\nFylde D31 (and Teams)\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui"
+  },
+  {
+    "objectID": "past.html#past-sessions",
+    "href": "past.html#past-sessions",
+    "title": "Past Sessions",
+    "section": "",
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nA Brief Overview of Diffusion Models\nFylde D31 (and Teams)\n16 Oct 2024\n2.30pm - 3pm\nRui"
   }
 ]

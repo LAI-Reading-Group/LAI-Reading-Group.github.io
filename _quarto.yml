@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: past.qmd
+        text: Past Sessions
       - href: resources.qmd
         text: Resources
       - href: about.qmd
