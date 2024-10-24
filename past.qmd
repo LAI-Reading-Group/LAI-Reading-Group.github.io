@@ -5,3 +5,4 @@ title: "Past Sessions"
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
 | A Brief Overview of Diffusion Models      |  16 Oct 2024 |  Rui     | [Score Based Diffusion paper](https://arxiv.org/abs/2011.13456) <br/> [Diffusion Models Survey](https://arxiv.org/abs/2209.00796) |
+| Introduction to Deep Learning      |  23 Oct 2024 |  Andreas     | <a href="slides/intro_to_dl.pdf" target="_blank">Slides</a> <br/> [Google Colab](https://colab.research.google.com/drive/1KQnXlb9QEHn0MgPq6i118GP6Cyf4QfNH#scrollTo=XdD6sAznA50o) <br/> [Paper](https://arxiv.org/abs/1603.07285)<br/> [Introduction to PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2576s)|

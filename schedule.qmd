@@ -10,5 +10,5 @@ title: "Schedule"
 | Transformers      | Fylde D31 |  13 Nov 2024 |   2pm - 3pm   |   Jack    |
 | Score Matching      | Fylde D31 |  6 Nov 2024 |   2pm - 3pm   |   Connie    |
 | Denoising Diffusion Probabilistic Models      | Fylde D31 | 30 Oct 2024 |   2pm - 3pm   |      Andreas |
-| <a href="slides/intro_to_dl.pdf" target="_blank">Introduction to Deep Learning</a>   | Fylde D31   | 23 Oct 2024 |   2pm - 3pm   |    Andreas   |
+| Introduction to Deep Learning   | Fylde D31   | 23 Oct 2024 |   2pm - 3pm   |    Andreas   |
 | A Brief Overview of Diffusion Models      | Fylde D31  | 16 Oct 2024 |   2.30pm - 3pm   |  Rui     |
