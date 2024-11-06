@@ -5,7 +5,7 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:----------:|:-----:|:---:|:---:|:-:|
 | Commercial Diffusion Models      | Fylde D31  | 4 Dec 2024 |   2pm - 3pm   |   Jack    |
-| Latent Diffusion      | Fylde D31  |  27 Nov 2024 |   2pm - 3pm   |   Lanya    |
+| Flow Matching      | Fylde D31  |  27 Nov 2024 |   2pm - 3pm   |   Chris N    |
 | Conditional Diffusions      | Fylde D31   | 20 Nov 2024 |   2pm - 3pm   |    Tamas   |
 | Transformers      | Fylde D31 |  13 Nov 2024 |   2pm - 3pm   |   Jack    |
 | Score Matching      | Fylde D31 |  6 Nov 2024 |   2pm - 3pm   |   Connie    |
