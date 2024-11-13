@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nTransformers\nFylde D31\n13 Nov 2024\n2pm - 3pm\nJack\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nThe Most Famous Dog in Machine Learning"
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1 24-25, we are learning diffusion models.\nIn Term 2, we will be doing reinforcement learning; in Term 3, we will be doing geometric deep learning.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nTransformers\nFylde D31\n13 Nov 2024\n2pm - 3pm\nJack\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nThe Most Famous Dog in Machine Learning"
   },
   {
     "objectID": "about.html",
@@ -25,14 +25,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Step-by-Step Diffusion: An Elementary Tutorial\nDenoising Diffusion Probabilistic Models in Six Simple Steps\nTutorial on Diffusion Models for Imaging and Vision\n\n\n\n\n\nScore-Based Generative Modeling through Stochastic Differential Equations\nDiffusion Models: A Comprehensive Survey of Methods and Applications\nHigh-Resolution Image Synthesis with Latent Diffusion Models\nA Unified Framework for U-Net Design and Analysis\n\n\n\n\n\nSong Yang’s Blog Post on Diffusion\nDiffusion Models | PyTorch Implementation\nDiffusion Models | Paper Explanation | Math Explained\nScore-based Generative Modeling in Latent Space"
+    "text": "Statistical exploration of the Manifold Hypothesis\n\n\n\n\n\nGeometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges"
   },
   {
     "objectID": "resources.html#diffusion-models-term-1-24-25",
     "href": "resources.html#diffusion-models-term-1-24-25",
     "title": "Resources",
-    "section": "",
-    "text": "Step-by-Step Diffusion: An Elementary Tutorial\nDenoising Diffusion Probabilistic Models in Six Simple Steps\nTutorial on Diffusion Models for Imaging and Vision\n\n\n\n\n\nScore-Based Generative Modeling through Stochastic Differential Equations\nDiffusion Models: A Comprehensive Survey of Methods and Applications\nHigh-Resolution Image Synthesis with Latent Diffusion Models\nA Unified Framework for U-Net Design and Analysis\n\n\n\n\n\nSong Yang’s Blog Post on Diffusion\nDiffusion Models | PyTorch Implementation\nDiffusion Models | Paper Explanation | Math Explained\nScore-based Generative Modeling in Latent Space"
+    "section": "Diffusion Models (Term 1, 24-25)",
+    "text": "Diffusion Models (Term 1, 24-25)\n\nTutorials\n\nStep-by-Step Diffusion: An Elementary Tutorial\nDenoising Diffusion Probabilistic Models in Six Simple Steps\nTutorial on Diffusion Models for Imaging and Vision\n\n\n\nPapers and Surveys\n\nScore-Based Generative Modeling through Stochastic Differential Equations\nDiffusion Models: A Comprehensive Survey of Methods and Applications\nHigh-Resolution Image Synthesis with Latent Diffusion Models\nA Unified Framework for U-Net Design and Analysis\n\n\n\nBlogs and Videos\n\nSong Yang’s Blog Post on Diffusion\nDiffusion Models | PyTorch Implementation\nDiffusion Models | Paper Explanation | Math Explained\nScore-based Generative Modeling in Latent Space"
   },
   {
     "objectID": "resources.html#general-machine-learning-textbooks",
@@ -89,5 +89,19 @@
     "title": "Schedule",
     "section": "",
     "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nCommercial Diffusion Models\nFylde D31\n4 Dec 2024\n2pm - 3pm\nJack\n\n\nFlow Matching\nFylde D31\n27 Nov 2024\n2pm - 3pm\nChris N\n\n\nConditional Diffusions\nFylde D31\n20 Nov 2024\n3pm - 4pm\nTamas\n\n\nTransformers\nFylde D31\n13 Nov 2024\n2pm - 3pm\nJack\n\n\nScore Matching\nFylde D31\n6 Nov 2024\n2pm - 3pm\nConnie\n\n\nDenoising Diffusion Probabilistic Models\nFylde D31\n30 Oct 2024\n2pm - 3pm\nAndreas\n\n\nIntroduction to Deep Learning\nFylde D31\n23 Oct 2024\n2pm - 3pm\nAndreas\n\n\nA Brief Overview of Diffusion Models\nFylde D31\n16 Oct 2024\n2.30pm - 3pm\nRui"
+  },
+  {
+    "objectID": "resources.html#geometric-deep-learning-term-3-24-25",
+    "href": "resources.html#geometric-deep-learning-term-3-24-25",
+    "title": "Resources",
+    "section": "",
+    "text": "Statistical exploration of the Manifold Hypothesis\n\n\n\n\n\nGeometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges"
+  },
+  {
+    "objectID": "resources.html#reinforcement-learning-term-2-24-25",
+    "href": "resources.html#reinforcement-learning-term-2-24-25",
+    "title": "Resources",
+    "section": "Reinforcement Learning (Term 2, 24-25)",
+    "text": "Reinforcement Learning (Term 2, 24-25)\n\nPapers and Surveys\n\nAlphaGo\nAlphaFold\n\n\n\nTextbooks\n\nReinforcement Learning: An Introduction\n\n\n\nLecture Series\n\nDeepMind x UCL | Deep Learning Lecture Series 2021\nCS285 Deep Reinforcement Learning"
   }
 ]

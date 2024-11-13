@@ -6,7 +6,9 @@ Lancaster AI (**LAI**) reading group is a weekly reading group focusing on topic
 
 In Term 1 24-25, we are learning **diffusion models**. 
 
-**Fylde D31 and over Teams; Wednesday 2-3pm (mostly)**. 
+In Term 2, we will be doing **reinforcement learning**; in Term 3, we will be doing **geometric deep learning**. 
+
+<span style="color:Blue">**Fylde D31 and over Teams; Wednesday 2-3pm (mostly)**</span>.
 
 See [here](./schedule.html) for the **full schedules**; [here](./past.html) for **past sessions**. 
 

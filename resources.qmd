@@ -1,6 +1,32 @@
 ---
 title: "Resources"
 ---
+## Geometric Deep Learning (Term 3, 24-25)
+
+### Papers and Surveys
+
+- [Statistical exploration of the Manifold Hypothesis](https://arxiv.org/abs/2208.11665)
+
+### Textbooks
+
+- [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
+
+
+## Reinforcement Learning (Term 2, 24-25)
+
+### Papers and Surveys
+
+- [AlphaGo](https://www.nature.com/articles/nature16961)
+- [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+
+### Textbooks
+
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+
+### Lecture Series
+
+- [DeepMind x UCL | Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+- [CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Diffusion Models (Term 1, 24-25)
 
