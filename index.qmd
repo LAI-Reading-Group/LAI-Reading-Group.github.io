@@ -16,7 +16,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:---------:|:------:|:---:|:---:|:-:|
-| Transformers      | Fylde D31 |  13 Nov 2024 |   2pm - 3pm   |   Jack    |
+| Conditional Diffusions      | Fylde D31   | 20 Nov 2024 |   <span style="color:Red">3pm - 4pm</span>   |    Tamas      |
 
 Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lancaster.ac.uk) for any question related to the reading group.
 
