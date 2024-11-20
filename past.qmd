@@ -4,6 +4,7 @@ title: "Past Sessions"
 
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
+| Conditional Diffusions      |  20 Nov 2024 |    Tamas    | [Slides](./slides/conditional.pdf)
 | Transformers      |  13 Nov 2024 |    Jack    | [Slides](./slides/Transformers.pdf) <br/> [Paper](https://arxiv.org/abs/1706.03762); [Video](https://www.youtube.com/watch?v=rBCqOTEfxvg); [Blog](https://jalammar.github.io/illustrated-transformer/)<br/> [Technical Report](https://arxiv.org/abs/2207.09238) <br/>[Mathematical Intro](https://arxiv.org/pdf/2304.10557)|
 | Score Matching      |  6 Nov 2024 |    Connie    | [Slides](./slides/score_matching_connie.pdf)|
 | DDPMs      |  30 Oct 2024 |  Andreas     | <a href="slides/ddpm.pdf" target="_blank">Slides</a> <br/> [Google Colab](https://colab.research.google.com/drive/1crXRVF2nZsLdUEdjAhGnBxjOgratLd3N) ; [Paper](https://arxiv.org/abs/2006.11239)<br/> [Model Weights](https://livelancsac-my.sharepoint.com/:u:/g/personal/makris_lancaster_ac_uk/ESq2d0N30rVMt9uBE2rK39wBDCPebfJKBLAT152TerV_ag?e=wL0Qgf&xsdata=MDV8MDJ8YS5tYWtyaXNAbGFuY2FzdGVyLmFjLnVrfDY0OGFhNTg5YzQ1NDQ1OWRkZTg3MDhkY2Y4ZDU4ZDhlfDljOWJjZDExOTc3YTRlOWNhOWEwYmM3MzQwOTAxNjRhfDB8MHw2Mzg2NTg4NDMyODUxNjQ2ODV8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=VUNjaWU4aTcvV1ZBNjFQNzZPS2VSYjFJUmdmakljR2JhNVRwYy9DK09haz0%3d)|
