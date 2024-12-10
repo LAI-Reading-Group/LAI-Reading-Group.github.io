@@ -4,6 +4,8 @@ title: "Schedule"
 
 | Title | Location | Date | Time | Speaker |
 |:----------:|:-----:|:---:|:---:|:-:|
+| TBC      | PSC Lab 2  | 29 Jan 2024 |   2pm - 3pm   |   TBC    |
+| Introduction to Reinforcement Learning      | Fylde D31  | 22 Jan 2024 |   2pm - 3pm   |   Andreas    |
 | Commercial Diffusion Models      | Fylde D31  | 11 Dec 2024 |   2pm - 3pm   |   Jack    |
 | Flow Matching      | Fylde D33  |  27 Nov 2024 |   3pm - 4pm   |   Chris N    |
 | Conditional Diffusions      | Fylde D33   | 20 Nov 2024 |   3pm - 4pm   |    Tamas   |
