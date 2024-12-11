@@ -4,6 +4,7 @@ title: "Past Sessions"
 
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
+| Commercial Diffusion Models        | 11 Dec 2024 |      Jack    | [Paper](https://arxiv.org/abs/2204.06125)
 | Flow Matching      |  27 Nov 2024 |    Chris N    | [Slides](./slides/LAI_Flow_matching.pdf) <br/> [Code](./slides/Flow_mathching_demo.ipynb)
 | Conditional Diffusions      |  20 Nov 2024 |    Tamas    | [Slides](./slides/conditional_sampling.pdf)
 | Transformers      |  13 Nov 2024 |    Jack    | [Slides](./slides/Transformers.pdf) <br/> [Paper](https://arxiv.org/abs/1706.03762); [Video](https://www.youtube.com/watch?v=rBCqOTEfxvg); [Blog](https://jalammar.github.io/illustrated-transformer/)<br/> [Technical Report](https://arxiv.org/abs/2207.09238) <br/>[Mathematical Intro](https://arxiv.org/pdf/2304.10557)|
