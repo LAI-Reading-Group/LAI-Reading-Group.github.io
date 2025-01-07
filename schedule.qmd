@@ -4,13 +4,7 @@ title: "Schedule"
 
 | Title | Location | Date | Time | Speaker |
 |:----------:|:-----:|:---:|:---:|:-:|
-| Modern Bayesian Experimental Design      | PSC Lab 2  | 5 Feb 2025 |   2.00pm - 3pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
+| Amortized Bayesian Experimental Design: Principles and Implementation(s)      | PSC Lab 2  | 5 Feb 2025 |   2.00pm - 3pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
 | Markov Decision Processes and How to Solve Them      | PSC Lab 2  | 29 Jan 2025 |   2.00pm - 3pm   |  Rui     |
 | Introduction to Reinforcement Learning      | Fylde D31  | 22 Jan 2025 |   2pm - 3pm   |   Andreas    |
-| Commercial Diffusion Models      | Fylde D31  | 11 Dec 2024 |   2pm - 3pm   |   Jack    |
-| Flow Matching      | Fylde D33  |  27 Nov 2024 |   3pm - 4pm   |   Chris N    |
-| Conditional Diffusions      | Fylde D33   | 20 Nov 2024 |   3pm - 4pm   |    Tamas   |
-| Transformers      | Fylde D31 |  13 Nov 2024 |   2pm - 3pm   |   Jack    |
-| Score Matching      | Fylde D31 |  6 Nov 2024 |   2pm - 3pm   |   Connie    |
-| Denoising Diffusion Probabilistic Models      | Fylde D31 | 30 Oct 2024 |   2pm - 3pm   |      Andreas |
-| Introduction to Deep Learning   | Fylde D31   | 23 Oct 2024 |   2pm - 3pm   |    Andreas   |
+
