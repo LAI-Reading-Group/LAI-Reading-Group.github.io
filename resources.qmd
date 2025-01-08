@@ -18,6 +18,7 @@ title: "Resources"
 
 - [AlphaGo](https://www.nature.com/articles/nature16961)
 - [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+- [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
 
 ### Textbooks
 

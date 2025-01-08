@@ -2,6 +2,8 @@
 title: "Past Sessions"
 ---
 
+## Term 1, 24/25
+
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
 | Commercial Diffusion Models        | 11 Dec 2024 |      Jack    | [Paper](https://arxiv.org/abs/2204.06125)
