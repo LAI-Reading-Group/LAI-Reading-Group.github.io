@@ -4,6 +4,7 @@ title: "Schedule"
 
 | Title | Location | Date | Time | Speaker |
 |:----------:|:-----:|:---:|:---:|:-:|
+| Advanced Bandit Algorithms      | PSC Lab 2  | 19 Feb 2025 |   2.00pm - 3pm   |  James Grant    |
 | Bandits and Exploration v.s. Exploitation      | PSC Lab 2  | 12 Feb 2025 |   2.00pm - 3pm   |  Theo C    |
 | Tabular RL and Q-Learning      | PSC Lab 2  | 6 Feb 2025 |   2.00pm - 3pm   |  Adam    |
 | Amortized Bayesian Experimental Design: Principles and Implementation(s)      | PSC Lab 2  | 5 Feb 2025 |   2.00pm - 3pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
