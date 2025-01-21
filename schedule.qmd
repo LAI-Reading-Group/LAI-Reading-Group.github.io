@@ -3,11 +3,14 @@ title: "Schedule"
 ---
 
 | Title | Location | Date | Time | Speaker |
-|:----------:|:-----:|:---:|:---:|:-:|
-| Advanced Bandit Algorithms      | PSC Lab 2  | 19 Feb 2025 |   2.00pm - 3pm   |  James Grant    |
-| Bandits and Exploration v.s. Exploitation      | PSC Lab 2  | 12 Feb 2025 |   2.00pm - 3pm   |  Theo C    |
-| Tabular RL and Q-Learning      | PSC Lab 2  | 6 Feb 2025 |   2.00pm - 3pm   |  Adam    |
-| Amortized Bayesian Experimental Design: Principles and Implementation(s)      | PSC Lab 2  | 5 Feb 2025 |   2.00pm - 3pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
-| Markov Decision Processes and How to Solve Them      | PSC Lab 2  | 29 Jan 2025 |   2.00pm - 3pm   |  Rui     |
-| Introduction to Reinforcement Learning      | Fylde D31  | 22 Jan 2025 |   2pm - 3pm   |   Andreas    |
+|:--------:|:-----:|:---:|:------:|:-:|
+| History of RL      | PSC Lab 2  | 12 March 2025 |   2-3 pm   |  David Leslie    |
+| Policy-Based RL      | PSC Lab 2  | 5 March 2025 |   2-3 pm   |  Jack    |
+| ?      | PSC Lab 2  | 26 Feb 2025 |   2-3 pm   |  ?    |
+| Advanced Bandit Algorithms      | PSC Lab 2  | 19 Feb 2025 |    <span style="color:Red">3-4 pm</span>   |  James Grant    |
+| Bandits and Exploration v.s. Exploitation      | PSC Lab 2  | 12 Feb 2025 |   2-3 pm   |  Theo C    |
+| Tabular RL and Q-Learning      | PSC Lab 2  | 6 Feb 2025 |   2-3 pm   |  Adam    |
+| Amortized Bayesian Experimental Design: Principles and Implementation(s)      | PSC Lab 2  | 5 Feb 2025 |   2-3 pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
+| Markov Decision Processes and How to Solve Them      | PSC Lab 2  | 29 Jan 2025 |   2-3 pm   |  Rui     |
+| Introduction to Reinforcement Learning      | Fylde D31  | 22 Jan 2025 |   2-3 pm   |   Andreas    |
 
