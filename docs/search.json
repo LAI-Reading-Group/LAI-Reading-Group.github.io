@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 2, we are doing reinforcement learning.\nIn Term 3, we will be doing geometric deep learning.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Reinforcement Learning\nFylde D31\n22 Jan 2024\n2pm - 3pm\nAndreas\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nSobbing GO Grandmaster Ke Jie (Globally No.1 at the time) after losing to AlphaGo"
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 2, we are doing reinforcement learning.\nIn Term 3, we will be doing geometric deep learning.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nMarkov Decision Processes and How to Solve Them\nPSC Lab 2\n29 Jan 2025\n2 pm -3 pm\nRui\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nSobbing GO Grandmaster Ke Jie (Globally No.1 at the time) after losing to AlphaGo"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "about.html#current-members",
     "title": "About",
     "section": "Current Members",
-    "text": "Current Members\n\nSoheil Arabzadeh\nEduard Campillo-Funollet\nLloyd Chapman\nTheo Crookes\nDan Dodd\nMiles Elvidge\nPaul Fearnhead\nYuga Iguchi\nDavid Leslie\nRobert Lambert\nAndreas Makris\nHenry Moss\nThomas Newman\nChris Nemeth\nAdam Page\nTamás P. Papp\nChris Sherlock\nTheodore Tollet\nJack Trainer\nConnie Trojan\nLanya Yang\nRui Zhang\nKai Zheng"
+    "text": "Current Members\n\nSoheil Arabzadeh\nEduard Campillo-Funollet\nLloyd Chapman\nTheo Crookes\nDan Dodd\nMiles Elvidge\nPaul Fearnhead\nYuga Iguchi\nDavid Leslie\nRobert Lambert\nAndreas Makris\nAlin Morariu\nHenry Moss\nThomas Newman\nChris Nemeth\nAdam Page\nTamás P. Papp\nChris Sherlock\nTheodore Tollet\nJack Trainer\nConnie Trojan\nLanya Yang\nRui Zhang\nKai Zheng"
   },
   {
     "objectID": "resources.html",
@@ -88,7 +88,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nAdvanced Bandit Algorithms\nPSC Lab 2\n19 Feb 2025\n1 pm -2 pm\nJames Grant\n\n\nBandits and Exploration v.s. Exploitation\nPSC Lab 2\n12 Feb 2025\n2 pm -3 pm\nTheo C\n\n\nTabular RL and Q-Learning\nPSC Lab 2\n6 Feb 2025\n2 pm -3 pm\nAdam\n\n\nAmortized Bayesian Experimental Design: Principles and Implementation(s)\nPSC Lab 2\n5 Feb 2025\n2 pm -3 pm\nAdrien Corenflos\n\n\nMarkov Decision Processes and How to Solve Them\nPSC Lab 2\n29 Jan 2025\n2 pm -3 pm\nRui\n\n\nIntroduction to Reinforcement Learning\nFylde D31\n22 Jan 2025\n2 pm -3 pm\nAndreas"
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nImplementing Bayesian bandits in Python - a financial case study\nPSC Lab 2\n26 Feb 2025\n2 pm - 3 pm\nAlin\n\n\nAdvanced Bandit Algorithms\nFylde D31\n19 Feb 2025\n1 pm -2 pm\nJames Grant\n\n\nBandits and Exploration v.s. Exploitation\nPSC Lab 2\n12 Feb 2025\n2 pm -3 pm\nTheo C\n\n\nTabular RL and Q-Learning\nPSC Lab 2\n6 Feb 2025\n2 pm -3 pm\nAdam\n\n\nAmortized Bayesian Experimental Design: Principles and Implementation(s)\nPSC Lab 2\n5 Feb 2025\n2 pm -3 pm\nAdrien Corenflos\n\n\nMarkov Decision Processes and How to Solve Them\nPSC Lab 2\n29 Jan 2025\n2 pm -3 pm\nRui\n\n\nIntroduction to Reinforcement Learning\nFylde D31\n22 Jan 2025\n2 pm -3 pm\nAndreas"
   },
   {
     "objectID": "resources.html#geometric-deep-learning-term-3-24-25",
