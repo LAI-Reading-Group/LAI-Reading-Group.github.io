@@ -16,7 +16,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:---------:|:------:|:---:|:---:|:-:|
-| Introduction to Reinforcement Learning      | Fylde D31   | <span style="color:Red">22 Jan 2024</span> |   2pm - 3pm   |    Andreas    |
+| Markov Decision Processes and How to Solve Them      | PSC Lab 2   | <span style="color:Red">29 Jan 2024</span> |   2pm - 3pm   |    Rui    |
 
 Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lancaster.ac.uk) for any question related to the reading group.
 
