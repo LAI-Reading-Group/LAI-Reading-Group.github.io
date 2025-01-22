@@ -4,7 +4,11 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
+<<<<<<< HEAD
     "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 2, we are doing reinforcement learning.\nIn Term 3, we will be doing geometric deep learning.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nMarkov Decision Processes and How to Solve Them\nPSC Lab 2\n29 Jan 2025\n2 pm -3 pm\nRui\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nSobbing GO Grandmaster Ke Jie (Globally No.1 at the time) after losing to AlphaGo"
+=======
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 2, we are doing reinforcement learning.\nIn Term 3, we will be doing geometric deep learning.\nFylde D31 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nMarkov Decision Processes and How to Solve Them\nPSC Lab 2\n29 Jan 2024\n2pm - 3pm\nRui\n\n\n\nEmail Rui or Andreas for any question related to the reading group.\n\n\n\nSobbing GO Grandmaster Ke Jie (Globally No.1 at the time) after losing to AlphaGo"
+>>>>>>> 011674306dcce0044044cae29085171a6cc1a89d
   },
   {
     "objectID": "about.html",
@@ -60,7 +64,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\n\nCommercial Diffusion Models\n11 Dec 2024\nJack\nPaper\n\n\n\nFlow Matching\n27 Nov 2024\nChris N\nSlides  Code\n\n\n\nConditional Diffusions\n20 Nov 2024\nTamas\nSlides\n\n\n\nTransformers\n13 Nov 2024\nJack\nSlides  Paper; Video; Blog Technical Report Mathematical Intro\n\n\n\nScore Matching\n6 Nov 2024\nConnie\nSlides\n\n\n\nDDPMs\n30 Oct 2024\nAndreas\nSlides  Google Colab ; Paper Model Weights\n\n\n\nIntroduction to Deep Learning\n23 Oct 2024\nAndreas\nSlides  Google Colab ; Paper Introduction to PyTorch\n\n\n\nA Brief Overview of Diffusion Models\n16 Oct 2024\nRui\nScore-Based Diffusion paper  Diffusion Models Survey"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\n\nIntroduction to RL\n22 Jan 2024\nAndreas\nSlides"
   },
   {
     "objectID": "past.html#schedule",
@@ -115,7 +119,14 @@
     "objectID": "past.html#term-1-2425",
     "href": "past.html#term-1-2425",
     "title": "Past Sessions",
+    "section": "Term 1, 24/25",
+    "text": "Term 1, 24/25\n\n\n\nTitle\nDate\nSpeaker\nReferences\n\n\n\n\n\nCommercial Diffusion Models\n11 Dec 2024\nJack\nPaper\n\n\n\nFlow Matching\n27 Nov 2024\nChris N\nSlides  Code\n\n\n\nConditional Diffusions\n20 Nov 2024\nTamas\nSlides\n\n\n\nTransformers\n13 Nov 2024\nJack\nSlides  Paper; Video; Blog Technical Report Mathematical Intro\n\n\n\nScore Matching\n6 Nov 2024\nConnie\nSlides\n\n\n\nDDPMs\n30 Oct 2024\nAndreas\nSlides  Google Colab ; Paper Model Weights\n\n\n\nIntroduction to Deep Learning\n23 Oct 2024\nAndreas\nSlides  Google Colab ; Paper Introduction to PyTorch\n\n\n\nA Brief Overview of Diffusion Models\n16 Oct 2024\nRui\nScore-Based Diffusion paper  Diffusion Models Survey"
+  },
+  {
+    "objectID": "past.html#term-2-2425",
+    "href": "past.html#term-2-2425",
+    "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\n\nCommercial Diffusion Models\n11 Dec 2024\nJack\nPaper\n\n\n\nFlow Matching\n27 Nov 2024\nChris N\nSlides  Code\n\n\n\nConditional Diffusions\n20 Nov 2024\nTamas\nSlides\n\n\n\nTransformers\n13 Nov 2024\nJack\nSlides  Paper; Video; Blog Technical Report Mathematical Intro\n\n\n\nScore Matching\n6 Nov 2024\nConnie\nSlides\n\n\n\nDDPMs\n30 Oct 2024\nAndreas\nSlides  Google Colab ; Paper Model Weights\n\n\n\nIntroduction to Deep Learning\n23 Oct 2024\nAndreas\nSlides  Google Colab ; Paper Introduction to PyTorch\n\n\n\nA Brief Overview of Diffusion Models\n16 Oct 2024\nRui\nScore-Based Diffusion paper  Diffusion Models Survey"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\n\nIntroduction to RL\n22 Jan 2024\nAndreas\nSlides"
   }
 ]

@@ -2,6 +2,12 @@
 title: "Past Sessions"
 ---
 
+## Term 2, 24/25
+
+| Title |  Date  | Speaker | References |
+|:----:|:---:|:---:|:-:|:-------------------:|
+|Introduction to RL| 22 Jan 2024 | Andreas | [Slides](./slides/intro_to_rl.pdf)
+
 ## Term 1, 24/25
 
 | Title |  Date  | Speaker | References |
