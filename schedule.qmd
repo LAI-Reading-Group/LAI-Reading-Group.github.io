@@ -1,15 +1,14 @@
 ---
 title: "Schedule"
 ---
-<!--| History of RL      | PSC Lab 2  | 12 March 2025 |   2-3 pm   |  David Leslie    |
-| Policy-Based RL      | PSC Lab 2  | 5 March 2025 |   2-3 pm   |  Jack    |
-| ?      | PSC Lab 2  | 26 Feb 2025 |   2-3 pm   |  ?    |
--->
 
 | Title | Location | Date | Time | Speaker |
 |:--------:|:-----:|:---:|:------:|:-:|
+| Two-Timescale Methods in Learning     | PSC Lab 2  | 19 Mar 2025 |    2 pm - 3 pm   |  David Leslie    |
+| Deep RL     | PSC Lab 2  | 12 Mar 2025 |    2 pm - 3 pm   |  Theo T |
+| Policy-Based RL     | PSC Lab 2  | <span style="color:Red">6 Mar 2025</span>  |    2 pm - 3 pm   |  Jack    |
 | Implementing Bayesian bandits in Python - a financial case study      | PSC Lab 2  | 26 Feb 2025 |    2 pm - 3 pm   |  Alin    |
-| Advanced Bandit Algorithms      | Fylde D31  | 19 Feb 2025 |    <span style="color:Red">1 pm -2 pm</span>   |  James Grant    |
+| Advanced Bandit Algorithms      | <span style="color:Red">Fylde D31</span>   | 19 Feb 2025 |    <span style="color:Red">1 pm -2 pm</span>   |  James Grant    |
 | Bandits and Exploration v.s. Exploitation      | PSC Lab 2  | 12 Feb 2025 |   2 pm -3 pm   |  Theo C    |
 | Tabular RL and Q-Learning      | PSC Lab 2  | 6 Feb 2025 |   2 pm -3 pm  |  Adam    |
 | Amortized Bayesian Experimental Design: Principles and Implementation(s)      | PSC Lab 2  | 5 Feb 2025 |   2 pm -3 pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
