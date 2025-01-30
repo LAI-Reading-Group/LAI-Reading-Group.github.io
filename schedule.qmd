@@ -9,7 +9,7 @@ title: "Schedule"
 | Policy-Based RL     | PSC Lab 2  | <span style="color:Red">6 Mar 2025</span>  |    2 pm - 3 pm   |  Jack    |
 | Implementing Bayesian bandits in Python - a financial case study      | PSC Lab 2  | 26 Feb 2025 |    2 pm - 3 pm   |  Alin    |
 | Advanced Bandit Algorithms      | <span style="color:Red">Fylde D31</span>   | 19 Feb 2025 |    <span style="color:Red">1 pm -2 pm</span>   |  James Grant    |
-| Bandits and Exploration v.s. Exploitation      | PSC Lab 2  | 12 Feb 2025 |   2 pm -3 pm   |  Theo C    |
+| Bandits and Exploration v.s. Exploitation      |<span style="color:Red">Fylde D31</span> | 12 Feb 2025 |   2 pm -3 pm   |  Theo C    |
 | Tabular RL and Q-Learning      | PSC Lab 2  | <span style="color:Red">6 Feb 2025</span> |   2 pm -3 pm  |  Adam    |
 | Amortized Bayesian Experimental Design: Principles and Implementation(s)      | PSC Lab 2  | 5 Feb 2025 |   2 pm -3 pm   |  [Adrien Corenflos](https://adriencorenflos.github.io/)     |
 | Markov Decision Processes and How to Solve Them      | PSC Lab 2  | 29 Jan 2025 |   2 pm -3 pm |  Rui     |
