@@ -6,7 +6,9 @@ title: "Past Sessions"
 
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
-| Markov Decision Processes and How to Solve Them      |  29 Jan 2025 |    Rui     | [Notes](https://shusheng3927.github.io/files/MDP.pdf) ; [Codes](https://shusheng3927.github.io/files/gridworld.py)
+| Tabular RL and Q-Learning      |  6 Feb 2025 |  Adam    | [Slides](./slides/adam_page.pdf)|
+| Amortized Bayesian Experimental Design     |  5 Feb 2025 |  [Adrien Corenflos](https://adriencorenflos.github.io/)     | |
+| MDPs and How to Solve Them      |  29 Jan 2025 |    Rui     | [Notes](https://shusheng3927.github.io/files/MDP.pdf) ; [Codes](https://shusheng3927.github.io/files/gridworld.py)
 |Introduction to RL| 22 Jan 2024 | Andreas | [Slides](./slides/intro_to_rl.pdf)
 
 ## Term 1, 24/25
