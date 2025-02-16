@@ -7,7 +7,7 @@ title: "Past Sessions"
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
 | Tabular RL and Q-Learning      |  6 Feb 2025 |  Adam    | [Slides](./slides/adam_page.pdf)|
-| Amortized Bayesian Experimental Design     |  5 Feb 2025 |  [Adrien Corenflos](https://adriencorenflos.github.io/)     | |
+| Amortized Bayesian Experimental Design     |  5 Feb 2025 |  [Adrien Corenflos](https://adriencorenflos.github.io/)     | [Slides](https://docs.google.com/presentation/d/1rkx6l4nILhpFK0m-WxH-yfvihibCUnktQsyfyZbU_vc/edit?usp=sharing)|
 | MDPs and How to Solve Them      |  29 Jan 2025 |    Rui     | [Notes](https://shusheng3927.github.io/files/MDP.pdf) ; [Codes](https://shusheng3927.github.io/files/gridworld.py)
 |Introduction to RL| 22 Jan 2024 | Andreas | [Slides](./slides/intro_to_rl.pdf)
 
