@@ -6,6 +6,8 @@ title: "Past Sessions"
 
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
+| Advanced Bandit Algorithms   | 19 Feb 2025 |  James Grant    |[Slides](./slides/james_grant.pdf)  |
+| Bandits and Exploration v.s. Exploitation | 12 Feb 2025 |   Theo C    | |
 | Tabular RL and Q-Learning      |  6 Feb 2025 |  Adam    | [Slides](./slides/adam_page.pdf)|
 | Amortized Bayesian Experimental Design     |  5 Feb 2025 |  [Adrien Corenflos](https://adriencorenflos.github.io/)     | [Slides](https://docs.google.com/presentation/d/1rkx6l4nILhpFK0m-WxH-yfvihibCUnktQsyfyZbU_vc/edit?usp=sharing)|
 | MDPs and How to Solve Them      |  29 Jan 2025 |    Rui     | [Notes](https://shusheng3927.github.io/files/MDP.pdf) ; [Codes](https://shusheng3927.github.io/files/gridworld.py)
