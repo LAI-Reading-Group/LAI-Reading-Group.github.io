@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
+| Policy-Based RL     | 6 Mar 2025  |   Jack    | [Slides](./slides/policy_gradient.pdf) |
 | Advanced Bandit Algorithms   | 19 Feb 2025 |  James Grant    |[Slides](./slides/james_grant.pdf)  |
 | Bandits and Exploration v.s. Exploitation | 12 Feb 2025 |   Theo C    | [Slides](./slides/theo_c.pptx) | 
 | Tabular RL and Q-Learning      |  6 Feb 2025 |  Adam    | [Slides](./slides/adam_page.pdf)|
