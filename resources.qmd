@@ -1,58 +1,65 @@
 ---
 title: "Resources"
 ---
+
 ## Geometric Deep Learning (Term 3, 24-25)
 
 ### Papers and Surveys
 
-- [Statistical exploration of the Manifold Hypothesis](https://arxiv.org/abs/2208.11665)
+-   [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
+-   [Statistical exploration of the Manifold Hypothesis](https://arxiv.org/abs/2208.11665)
 
 ### Textbooks
 
-- [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
+-   [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf)
+-   [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)
 
+### Lecture Series
+
+-   [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 
 ## Reinforcement Learning (Term 2, 24-25)
 
 ### Papers and Surveys
 
-- [AlphaGo](https://www.nature.com/articles/nature16961)
-- [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
-- [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
+-   [AlphaGo](https://www.nature.com/articles/nature16961)
+-   [AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+-   [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
 
 ### Textbooks
 
-- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+-   [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ### Lecture Series
 
-- [DeepMind x UCL | Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
-- [CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+-   [DeepMind x UCL \| Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
+-   [CS285 Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
 ## Diffusion Models (Term 1, 24-25)
 
 ### Tutorials
 
-- [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)
-- [Denoising Diffusion Probabilistic Models in Six Simple Steps](https://arxiv.org/abs/2402.04384)
-- [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
+-   [Step-by-Step Diffusion: An Elementary Tutorial](https://arxiv.org/abs/2406.08929)
+-   [Denoising Diffusion Probabilistic Models in Six Simple Steps](https://arxiv.org/abs/2402.04384)
+-   [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103)
 
 ### Papers and Surveys
 
-- [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
-- [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
-- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
-- [A Unified Framework for U-Net Design and Analysis](https://arxiv.org/pdf/2305.19638)
+-   [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)
+-   [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
+-   [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752)
+-   [A Unified Framework for U-Net Design and Analysis](https://arxiv.org/pdf/2305.19638)
 
-### Blogs and Videos 
-- [Song Yang's Blog Post on Diffusion](https://yang-song.net/blog/2021/score/)
-- [Diffusion Models | PyTorch Implementation](https://youtu.be/TBCRlnwJtZU?si=oO6pxZyHbDzXPmfR)
-- [Diffusion Models | Paper Explanation | Math Explained](https://youtu.be/HoKDTa5jHvg?si=iet3Zx-S7LtZ_fvH)
-- [Score-based Generative Modeling in Latent Space](https://nvlabs.github.io/LSGM/)
+### Blogs and Videos
+
+-   [Song Yang's Blog Post on Diffusion](https://yang-song.net/blog/2021/score/)
+-   [Diffusion Models \| PyTorch Implementation](https://youtu.be/TBCRlnwJtZU?si=oO6pxZyHbDzXPmfR)
+-   [Diffusion Models \| Paper Explanation \| Math Explained](https://youtu.be/HoKDTa5jHvg?si=iet3Zx-S7LtZ_fvH)
+-   [Score-based Generative Modeling in Latent Space](https://nvlabs.github.io/LSGM/)
 
 ## General Machine Learning Textbooks
-- [Probabilistic Machine Learning 1 - Kevin Murphy](https://probml.github.io/pml-book/book1.html)
-- [Probabilistic Machine Learning 2 - Kevin Murphy](https://probml.github.io/pml-book/book2.html)
-- [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
-- [Deep Learning Foundations and Concepts - Chris and Hugh Bishop](https://www.bishopbook.com)
 
+-   [Probabilistic Machine Learning 1 - Kevin Murphy](https://probml.github.io/pml-book/book1.html)
+-   [Probabilistic Machine Learning 2 - Kevin Murphy](https://probml.github.io/pml-book/book2.html)
+-   [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+-   [Deep Learning Foundations and Concepts - Chris and Hugh Bishop](https://www.bishopbook.com)
