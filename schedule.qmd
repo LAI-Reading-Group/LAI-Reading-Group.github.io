@@ -5,5 +5,6 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:--------:|:-----:|:---:|:------:|:-:|
 | GNNs for Recommender Systems    | PSC Lab 2  | 14 May 2025 |    2 pm - 3 pm   |  Cassandra    |
-| (An Attempt to) Introducing GNNs     | PSC Lab 2  | 23 Apr 2025 |    2 pm - 3 pm   |  Rui    |
+| (An Attempt to) Introducing GNNs     | PSC Lab 2  | 30 Apr 2025 |    2 pm - 3 pm   |  Rui    |
+| Node Embeddings / Spectral Methods     | PSC Lab 2  | 23 Apr 2025 |    2 pm - 3 pm   |  Chris N    |
 | Introduction to Graph Representation Learning     | PSC Lab 2  | 9 Apr 2025 |    2 pm - 3 pm   |  Andreas    |
