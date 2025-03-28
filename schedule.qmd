@@ -3,8 +3,10 @@ title: "Schedule"
 ---
 
 | Title | Location | Date | Time | Speaker |
-|:--------:|:-----:|:---:|:------:|:-:|
+|:--------:|:-----:|:---:|:------:|:-----:|
+| Atomic Cluster Expansion    | PSC Lab 2  | 21 May 2025 |    2 pm - 3 pm   |  Dr Maciej Buze    |
 | GNNs for Recommender Systems    | PSC Lab 2  | 14 May 2025 |    2 pm - 3 pm   |  Cassandra    |
+| Information Geometry    | PSC Lab 2  | 6 May 2025 |    2 pm - 3 pm   |  Dr Bill Oxbury    |
 | (An Attempt to) Introducing GNNs     | PSC Lab 2  | 30 Apr 2025 |    2 pm - 3 pm   |  Rui    |
-| Node Embeddings / Spectral Methods     | PSC Lab 2  | 23 Apr 2025 |    2 pm - 3 pm   |  Chris N    |
+| Node Embeddings / Spectral Methods     | PSC Lab 2  | 23 Apr 2025 |    2 pm - 3 pm   |  Dr Chris Nemeth    |
 | Introduction to Graph Representation Learning     | PSC Lab 2  | 9 Apr 2025 |    2 pm - 3 pm   |  Andreas    |
