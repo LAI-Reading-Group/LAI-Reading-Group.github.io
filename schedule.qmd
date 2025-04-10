@@ -5,6 +5,7 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:--------:|:-----:|:---:|:------:|:-----:|
 | GNNs for RL    | PSC Lab 2  | 4 June 2025 |    2 pm - 3 pm   |  Jack    |
+| Atomic Cluster Expansion    | PSC Lab 2  | 21 May 2025 |    <span style="color:Red">12 pm - 1 pm </span>  |  Maciej    |
 | GNNs for Recommender Systems    | PSC Lab 2  | 14 May 2025 |    2 pm - 3 pm   |  Cassandra    |
 | Information Geometry    | PSC Lab 2  | <span style="color:Red">6 May 2025</span> |    2 pm - 3 pm   |  Bill    |
 | Introducing GNNs     | PSC Lab 2  | 30 Apr 2025 |    2 pm - 3 pm   |  Pascal    |
