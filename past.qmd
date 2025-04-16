@@ -5,7 +5,7 @@ title: "Past Sessions"
 ## Term 3, 24/25
 | Title |  Date  | Speaker | References |
 |:----:|:---:|:---:|:-:|:-------------------:|
-| Introduction to GRL	  | 16 Apr 2025 |  Andreas    | [Slides](./slides/intro_grl.pdf) [Code](https://colab.research.google.com/drive/1xAm0047JFh_ba8T7xSpp_5Lw0ioGMeRh?usp=sharing)|
+| Introduction to GRL	  | 16 Apr 2025 |  Andreas    | [Slides](./slides/intro_grl.pdf); [Code](https://colab.research.google.com/drive/1xAm0047JFh_ba8T7xSpp_5Lw0ioGMeRh?usp=sharing)|
 
 ## Term 2, 24/25
 
