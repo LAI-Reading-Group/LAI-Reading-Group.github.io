@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-The website is currently maintained by [Rui Zhang](https://shusheng3927.github.io/) and [Andreas Makris](https://www.linkedin.com/in/andreas-makris-41868b225/). 
+The website is currently maintained by [Andreas Makris](https://www.linkedin.com/in/andreas-makris-41868b225/) and [Cassandra Durr](https://www.lancaster.ac.uk/stor-i-student-sites/cassandra-durr/)
 
-Email [Rui](mailto:r.zhang26@lancaster.ac.uk) or [Andreas](mailto:a.makris@lancaster.ac.uk) for any question related to the reading group. 
+Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 
 ## Current Members 
 
