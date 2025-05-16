@@ -3,35 +3,37 @@ title: "Past Sessions"
 ---
 
 ## Term 3, 24/25
-| Title |  Date  | Speaker | References |
-|:----:|:---:|:---:|:-:|:-------------------:|
-| Information Geometry		  | 14 May 2025 |  Bill    | [Slides](./slides/inf_geom.pdf) |
-| Introducing GNNs		  | 6 May 2025 |  Pascal    | [Slides](./slides/intro_gnn.pdf) |
-| Node Embeddings / Spectral Methods		  | 23 Apr 2025 |  Chris    | [Slides](./slides/graph_embeddings.pdf) |
-| Introduction to GRL	  | 16 Apr 2025 |  Andreas    | [Slides](./slides/intro_grl.pdf) ; [Code](https://colab.research.google.com/drive/1xAm0047JFh_ba8T7xSpp_5Lw0ioGMeRh?usp=sharing)|
+
+| Title | Date | Speaker | References |
+|:--:|:--:|:--:|:--:|
+| GNNs for Recommender Systems | 14 May 2025 | Cassandra Durr | [Slides](slides/geometric_deep_learning/GNNsForRecommenderSystems.pdf) |
+| Information Geometry | 6 May 2025 | Bill | [Slides](./slides/inf_geom.pdf) |
+| Introducing GNNs | 30 Apr 2025 | Pascal | [Slides](./slides/intro_gnn.pdf) |
+| Node Embeddings / Spectral Methods | 23 Apr 2025 | Chris | [Slides](./slides/graph_embeddings.pdf) |
+| Introduction to GRL | 16 Apr 2025 | Andreas | [Slides](./slides/intro_grl.pdf) ; [Code](https://colab.research.google.com/drive/1xAm0047JFh_ba8T7xSpp_5Lw0ioGMeRh?usp=sharing) |
 
 ## Term 2, 24/25
 
-| Title |  Date  | Speaker | References |
-|:----:|:---:|:---:|:-:|:-------------------:|
-| Two-Timescale Methods in Learning  | 12 Mar 2025 |  David Leslie    | [Slides](./slides/two_timescale.pdf) |
-| Policy-Based RL     | 6 Mar 2025  |   Jack    | [Slides](./slides/policy_gradient.pdf) |
-| Advanced Bandit Algorithms   | 19 Feb 2025 |  James Grant    |[Slides](./slides/james_grant.pdf)  |
-| Bandits and Exploration v.s. Exploitation | 12 Feb 2025 |   Theo C    | [Slides](./slides/theo_c.pptx) | 
-| Tabular RL and Q-Learning      |  6 Feb 2025 |  Adam    | [Slides](./slides/adam_page.pdf)|
-| Amortized Bayesian Experimental Design     |  5 Feb 2025 |  [Adrien Corenflos](https://adriencorenflos.github.io/)     | [Slides](https://docs.google.com/presentation/d/1rkx6l4nILhpFK0m-WxH-yfvihibCUnktQsyfyZbU_vc/edit?usp=sharing)|
-| MDPs and How to Solve Them      |  29 Jan 2025 |    Rui     | [Notes](https://shusheng3927.github.io/files/MDP.pdf) ; [Codes](https://shusheng3927.github.io/files/gridworld.py)
-|Introduction to RL| 22 Jan 2024 | Andreas | [Slides](./slides/intro_to_rl.pdf)
+| Title | Date | Speaker | References |
+|:--:|:--:|:--:|:--:|
+| Two-Timescale Methods in Learning | 12 Mar 2025 | David Leslie | [Slides](./slides/two_timescale.pdf) |
+| Policy-Based RL | 6 Mar 2025 | Jack | [Slides](./slides/policy_gradient.pdf) |
+| Advanced Bandit Algorithms | 19 Feb 2025 | James Grant | [Slides](./slides/james_grant.pdf) |
+| Bandits and Exploration v.s. Exploitation | 12 Feb 2025 | Theo C | [Slides](./slides/theo_c.pptx) |
+| Tabular RL and Q-Learning | 6 Feb 2025 | Adam | [Slides](./slides/adam_page.pdf) |
+| Amortized Bayesian Experimental Design | 5 Feb 2025 | [Adrien Corenflos](https://adriencorenflos.github.io/) | [Slides](https://docs.google.com/presentation/d/1rkx6l4nILhpFK0m-WxH-yfvihibCUnktQsyfyZbU_vc/edit?usp=sharing) |
+| MDPs and How to Solve Them | 29 Jan 2025 | Rui | [Notes](https://shusheng3927.github.io/files/MDP.pdf) ; [Codes](https://shusheng3927.github.io/files/gridworld.py) |
+| Introduction to RL | 22 Jan 2024 | Andreas | [Slides](./slides/intro_to_rl.pdf) |
 
 ## Term 1, 24/25
 
-| Title |  Date  | Speaker | References |
-|:----:|:---:|:---:|:-:|:-------------------:|
-| Commercial Diffusion Models        | 11 Dec 2024 |      Jack    | [Paper](https://arxiv.org/abs/2204.06125)
-| Flow Matching      |  27 Nov 2024 |    Chris N    | [Slides](./slides/LAI_Flow_matching.pdf) <br/> [Code](./slides/Flow_mathching_demo.ipynb)
-| Conditional Diffusions      |  20 Nov 2024 |    Tamas    | [Slides](./slides/conditional_sampling.pdf)
-| Transformers      |  13 Nov 2024 |    Jack    | [Slides](./slides/Transformers.pdf) <br/> [Paper](https://arxiv.org/abs/1706.03762); [Video](https://www.youtube.com/watch?v=rBCqOTEfxvg); [Blog](https://jalammar.github.io/illustrated-transformer/)<br/> [Technical Report](https://arxiv.org/abs/2207.09238) <br/>[Mathematical Intro](https://arxiv.org/pdf/2304.10557)|
-| Score Matching      |  6 Nov 2024 |    Connie    | [Slides](./slides/score_matching_connie.pdf)|
-| DDPMs      |  30 Oct 2024 |  Andreas     | <a href="slides/ddpm.pdf" target="_blank">Slides</a> <br/> [Google Colab](https://colab.research.google.com/drive/1crXRVF2nZsLdUEdjAhGnBxjOgratLd3N) ; [Paper](https://arxiv.org/abs/2006.11239)<br/> [Model Weights](https://livelancsac-my.sharepoint.com/:u:/g/personal/makris_lancaster_ac_uk/ESq2d0N30rVMt9uBE2rK39wBDCPebfJKBLAT152TerV_ag?e=wL0Qgf&xsdata=MDV8MDJ8YS5tYWtyaXNAbGFuY2FzdGVyLmFjLnVrfDY0OGFhNTg5YzQ1NDQ1OWRkZTg3MDhkY2Y4ZDU4ZDhlfDljOWJjZDExOTc3YTRlOWNhOWEwYmM3MzQwOTAxNjRhfDB8MHw2Mzg2NTg4NDMyODUxNjQ2ODV8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=VUNjaWU4aTcvV1ZBNjFQNzZPS2VSYjFJUmdmakljR2JhNVRwYy9DK09haz0%3d)|
-| Introduction to Deep Learning      |  23 Oct 2024 |  Andreas     | <a href="slides/intro_to_dl.pdf" target="_blank">Slides</a> <br/> [Google Colab](https://colab.research.google.com/drive/1KQnXlb9QEHn0MgPq6i118GP6Cyf4QfNH#scrollTo=XdD6sAznA50o) ; [Paper](https://arxiv.org/abs/1603.07285)<br/> [Introduction to PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2576s)|
-| A Brief Overview of Diffusion Models      |  16 Oct 2024 |  Rui     | [Score-Based Diffusion paper](https://arxiv.org/abs/2011.13456) <br/> [Diffusion Models Survey](https://arxiv.org/abs/2209.00796) |
+| Title | Date | Speaker | References |
+|:--:|:--:|:--:|:--:|
+| Commercial Diffusion Models | 11 Dec 2024 | Jack | [Paper](https://arxiv.org/abs/2204.06125) |
+| Flow Matching | 27 Nov 2024 | Chris N | [Slides](./slides/LAI_Flow_matching.pdf) <br/> [Code](./slides/Flow_mathching_demo.ipynb) |
+| Conditional Diffusions | 20 Nov 2024 | Tamas | [Slides](./slides/conditional_sampling.pdf) |
+| Transformers | 13 Nov 2024 | Jack | [Slides](./slides/Transformers.pdf) <br/> [Paper](https://arxiv.org/abs/1706.03762); [Video](https://www.youtube.com/watch?v=rBCqOTEfxvg); [Blog](https://jalammar.github.io/illustrated-transformer/)<br/> [Technical Report](https://arxiv.org/abs/2207.09238) <br/>[Mathematical Intro](https://arxiv.org/pdf/2304.10557) |
+| Score Matching | 6 Nov 2024 | Connie | [Slides](./slides/score_matching_connie.pdf) |
+| DDPMs | 30 Oct 2024 | Andreas | <a href="slides/ddpm.pdf" target="_blank">Slides</a> <br/> [Google Colab](https://colab.research.google.com/drive/1crXRVF2nZsLdUEdjAhGnBxjOgratLd3N) ; [Paper](https://arxiv.org/abs/2006.11239)<br/> [Model Weights](https://livelancsac-my.sharepoint.com/:u:/g/personal/makris_lancaster_ac_uk/ESq2d0N30rVMt9uBE2rK39wBDCPebfJKBLAT152TerV_ag?e=wL0Qgf&xsdata=MDV8MDJ8YS5tYWtyaXNAbGFuY2FzdGVyLmFjLnVrfDY0OGFhNTg5YzQ1NDQ1OWRkZTg3MDhkY2Y4ZDU4ZDhlfDljOWJjZDExOTc3YTRlOWNhOWEwYmM3MzQwOTAxNjRhfDB8MHw2Mzg2NTg4NDMyODUxNjQ2ODV8VW5rbm93bnxUV0ZwYkdac2IzZDhleUpXSWpvaU1DNHdMakF3TURBaUxDSlFJam9pVjJsdU16SWlMQ0pCVGlJNklrMWhhV3dpTENKWFZDSTZNbjA9fDB8fHw%3d&sdata=VUNjaWU4aTcvV1ZBNjFQNzZPS2VSYjFJUmdmakljR2JhNVRwYy9DK09haz0%3d) |
+| Introduction to Deep Learning | 23 Oct 2024 | Andreas | <a href="slides/intro_to_dl.pdf" target="_blank">Slides</a> <br/> [Google Colab](https://colab.research.google.com/drive/1KQnXlb9QEHn0MgPq6i118GP6Cyf4QfNH#scrollTo=XdD6sAznA50o) ; [Paper](https://arxiv.org/abs/1603.07285)<br/> [Introduction to PyTorch](https://www.youtube.com/watch?v=Z_ikDlimN6A&t=2576s) |
+| A Brief Overview of Diffusion Models | 16 Oct 2024 | Rui | [Score-Based Diffusion paper](https://arxiv.org/abs/2011.13456) <br/> [Diffusion Models Survey](https://arxiv.org/abs/2209.00796) |
