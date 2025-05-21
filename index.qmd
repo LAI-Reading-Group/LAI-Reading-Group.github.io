@@ -14,7 +14,6 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Revolutionizing Connectomics using Generative, Federated and Holistic Learning | [Fylde D33]{style="color:Red"} | [20 May 2025]{style="color:Red"} | 2 pm - 3 pm | [Islem](https://basira-lab.com) |
 | Atomic Cluster Expansion | PSC Lab 2 | 21 May 2025 | [12 pm - 1 pm]{style="color:Red"} | Maciej |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 

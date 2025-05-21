@@ -6,7 +6,8 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
-| GNNs for Recommender Systems | 14 May 2025 | Cassandra Durr | [Slides](slides/geometric_deep_learning/GNNsForRecommenderSystems.pdf) |
+| Revolutionizing Connectomics using Generative, Federated and Holistic Learning | 20 May 2025 | Islem | [Slides](slides/islem.pdf) |
+| GNNs for Recommender Systems | 14 May 2025 | Cassandra | [Slides](slides/geometric_deep_learning/GNNsForRecommenderSystems.pdf) |
 | Information Geometry | 6 May 2025 | Bill | [Slides](./slides/inf_geom.pdf) |
 | Introducing GNNs | 30 Apr 2025 | Pascal | [Slides](./slides/intro_gnn.pdf) |
 | Node Embeddings / Spectral Methods | 23 Apr 2025 | Chris | [Slides](./slides/graph_embeddings.pdf) |
