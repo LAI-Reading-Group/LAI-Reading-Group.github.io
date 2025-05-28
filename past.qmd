@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| ReLU Networks and Tropical Geometry | 28 May 2025 |  Ben | [Slides](slides/geometric_deep_learning/relu_discrete_geometry.pdf)
 | Atomic Cluster Expansion | 21 May 2025 | Maciej | [Slides](slides/geometric_deep_learning/mbuze_LAI_ACE.pdf)
 | Revolutionizing Connectomics using Generative, Federated and Holistic Learning | 20 May 2025 | Islem | [Slides](slides/islem.pdf) |
 | GNNs for Recommender Systems | 14 May 2025 | Cassandra | [Slides](slides/geometric_deep_learning/GNNsForRecommenderSystems.pdf) |
