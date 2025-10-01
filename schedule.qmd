@@ -12,5 +12,5 @@ title: "Schedule"
 | Simulation Optim | PSC LT | 12 Nov 2025 | 2 pm - 3 pm | Luke |
 | Zeroth Order Optim | PSC LT | 19 Nov 2025 | 2 pm - 3 pm | Miles |
 | ML for Improving Optim | PSC LT | 26 Nov 2025 | 2 pm - 3 pm | Jimmy |
-| Double Descent | PSC LT | 3 Dec 2025 | 2 pm - 3 pm | Ruy |
+| Double Descent | PSC LT | 3 Dec 2025 | 2 pm - 3 pm | Rui |
 | Distributed Optimization and Error Feedback | PSC LT | 10 Dec 2025 | 2 pm - 3 pm | Mher |
