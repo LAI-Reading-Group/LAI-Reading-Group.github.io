@@ -4,12 +4,13 @@ title: "Schedule"
 
 | Title | Location | Date | Time | Speaker |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| GNNs for RL | PSC Lab 2 | 4 June 2025 | 2 pm - 3 pm | Jack |
-| ReLU Networks and Tropical Geometry | PSC Lab 2 | 28 May 2025 | 2 pm - 3 pm | Ben |
-| Atomic Cluster Expansion | PSC Lab 2 | 21 May 2025 | [12 pm - 1 pm]{style="color:Red"} | Maciej |
-| Revolutionizing Connectomics using Generative, Federated and Holistic Learning | [Fylde D33]{style="color:Red"} | [20 May 2025]{style="color:Red"} | 2 pm - 3 pm | [Islem](https://basira-lab.com) |
-| GNNs for Recommender Systems | PSC Lab 2 | 14 May 2025 | 2 pm - 3 pm | Cassandra |
-| Information Geometry | PSC Lab 2 | [6 May 2025]{style="color:Red"} | 2 pm - 3 pm | Bill |
-| Introducing GNNs | PSC Lab 2 | 30 Apr 2025 | 2 pm - 3 pm | Pascal |
-| Node Embeddings / Spectral Methods | PSC Lab 2 | 23 Apr 2025 | 2 pm - 3 pm | Chris N |
-| Introduction to Graph Representation Learning | PSC Lab 2 | 16 Apr 2025 | 2 pm - 3 pm | Andreas |
+| Intro to Optim for ML | PSC LT | 8 Oct 2025 | 2 pm - 3 pm | Andreas |
+| First Order Methods | PSC LT | 15 Oct 2025 | 2 pm - 3 pm | Andreas |
+| Second Order Methods | PSC LT | 22 Oct 2025 | 2 pm - 3 pm | Cass |
+|  Alternating Directed Method | PSC LT | 29 Oct 2025 | 2 pm - 3 pm | Alex |
+| Adaptive Friction  Methods | PSC LT | 5 Nov 2025 | 2 pm - 3 pm | Katerina |
+| Simulation Optim | PSC LT | 12 Nov 2025 | 2 pm - 3 pm | Luke |
+| Zeroth Order Optim | PSC LT | 19 Nov 2025 | 2 pm - 3 pm | Miles |
+| ML for Improving Optim | PSC LT | 26 Nov 2025 | 2 pm - 3 pm | Jimmy |
+| Double Descent | PSC LT | 3 Dec 2025 | 2 pm - 3 pm | Ruy |
+| Distributed Optimization and Error Feedback | PSC LT | 10 Dec 2025 | 2 pm - 3 pm | Mher |

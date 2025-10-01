@@ -11,14 +11,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Graph Neural Networks: A Review of Methods and Applications\nStatistical exploration of the Manifold Hypothesis\n\n\n\n\n\nGraph Representation Learning\nGeometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges\n\n\n\n\n\nCS224W: Machine Learning with Graphs"
+    "text": "Algorithms for Optimization\nLectures on Optimization\nNumerical Optimisation"
   },
   {
     "objectID": "resources.html#geometric-deep-learning-term-3-24-25",
     "href": "resources.html#geometric-deep-learning-term-3-24-25",
     "title": "Resources",
-    "section": "",
-    "text": "Graph Neural Networks: A Review of Methods and Applications\nStatistical exploration of the Manifold Hypothesis\n\n\n\n\n\nGraph Representation Learning\nGeometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges\n\n\n\n\n\nCS224W: Machine Learning with Graphs"
+    "section": "Geometric Deep Learning (Term 3, 24-25)",
+    "text": "Geometric Deep Learning (Term 3, 24-25)\n\nPapers and Surveys\n\nGraph Neural Networks: A Review of Methods and Applications\nStatistical exploration of the Manifold Hypothesis\n\n\n\nTextbooks\n\nGraph Representation Learning\nGeometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges\n\n\n\nLecture Series\n\nCS224W: Machine Learning with Graphs"
   },
   {
     "objectID": "resources.html#reinforcement-learning-term-2-24-25",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 3, we are doing geometric deep learning.\nPSC Lab 2 and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nTBC\nTBC\nOctober 2025\nTBC\nTBC\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nAlphaFold\n\n\nThe famous AlphaFold model developed from DeepMind uses GNNs! Image taken from Yannic Kilcher."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning. In Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Optimisation for ML\nPSC LT\nOctober 2025\n2-3pm\nAndreas\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDouble Descent\n\n\nThe famous double descent phenomenon."
   },
   {
     "objectID": "about.html",
@@ -95,6 +95,13 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nGNNs for RL\nPSC Lab 2\n4 June 2025\n2 pm - 3 pm\nJack\n\n\nReLU Networks and Tropical Geometry\nPSC Lab 2\n28 May 2025\n2 pm - 3 pm\nBen\n\n\nAtomic Cluster Expansion\nPSC Lab 2\n21 May 2025\n12 pm - 1 pm\nMaciej\n\n\nRevolutionizing Connectomics using Generative, Federated and Holistic Learning\nFylde D33\n20 May 2025\n2 pm - 3 pm\nIslem\n\n\nGNNs for Recommender Systems\nPSC Lab 2\n14 May 2025\n2 pm - 3 pm\nCassandra\n\n\nInformation Geometry\nPSC Lab 2\n6 May 2025\n2 pm - 3 pm\nBill\n\n\nIntroducing GNNs\nPSC Lab 2\n30 Apr 2025\n2 pm - 3 pm\nPascal\n\n\nNode Embeddings / Spectral Methods\nPSC Lab 2\n23 Apr 2025\n2 pm - 3 pm\nChris N\n\n\nIntroduction to Graph Representation Learning\nPSC Lab 2\n16 Apr 2025\n2 pm - 3 pm\nAndreas"
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntro to Optim for ML\nPSC LT\n8 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nFirst Order Methods\nPSC LT\n15 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nSecond Order Methods\nPSC LT\n22 Oct 2025\n2 pm - 3 pm\nCass\n\n\nAlternating Directed Method\nPSC LT\n29 Oct 2025\n2 pm - 3 pm\nAlex\n\n\nAdaptive Friction Methods\nPSC LT\n5 Nov 2025\n2 pm - 3 pm\nKaterina\n\n\nSimulation Optim\nPSC LT\n12 Nov 2025\n2 pm - 3 pm\nLuke\n\n\nZeroth Order Optim\nPSC LT\n19 Nov 2025\n2 pm - 3 pm\nMiles\n\n\nML for Improving Optim\nPSC LT\n26 Nov 2025\n2 pm - 3 pm\nJimmy\n\n\nDouble Descent\nPSC LT\n3 Dec 2025\n2 pm - 3 pm\nRuy\n\n\nDistributed Optimization and Error Feedback\nPSC LT\n10 Dec 2025\n2 pm - 3 pm\nMher"
+  },
+  {
+    "objectID": "resources.html#optimisation-for-ml-term-1-25-26",
+    "href": "resources.html#optimisation-for-ml-term-1-25-26",
+    "title": "Resources",
+    "section": "",
+    "text": "Algorithms for Optimization\nLectures on Optimization\nNumerical Optimisation"
   }
 ]

@@ -2,6 +2,15 @@
 title: "Resources"
 ---
 
+## Optimisation for ML (Term 1, 25-26)
+
+### Textbooks
+
+- [Algorithms for Optimization](https://algorithmsbook.com/optimization/files/optimization.pdf)
+- [Lectures on Optimization](eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchewisinho.github.io%2Fopt_notes_final.pdf&data=05%7C02%7Ca.makris%40lancaster.ac.uk%7Cdd0805dd7edd45a272ad08ddafda6ee5%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C638860074870397535%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=dstEbMINBYgZFiXbnxldrMiEKEb%2Fo%2BBjbodvpThEi8w%3D&reserved=0)
+- [Numerical Optimisation](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+
+
 ## Geometric Deep Learning (Term 3, 24-25)
 
 ### Papers and Surveys
