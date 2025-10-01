@@ -5,10 +5,10 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Intro to Optim for ML | PSC LT | 8 Oct 2025 | 2 pm - 3 pm | Andreas |
-| First Order Methods | PSC LT | 15 Oct 2025 | 2 pm - 3 pm | Andreas |
-| Second Order Methods | PSC LT | 22 Oct 2025 | 2 pm - 3 pm | Cass |
-|  Alternating Directed Method | PSC LT | 29 Oct 2025 | 2 pm - 3 pm | Alex |
-| Adaptive Friction  Methods | PSC LT | 5 Nov 2025 | 2 pm - 3 pm | Katerina |
+| First Order Methods | PSC LT | 15 Oct 2025 | 2 pm - 3 pm | Cass |
+| Second Order Methods | PSC LT | 22 Oct 2025 | 2 pm - 3 pm | Andreas |
+| Alternating Directed Method | PSC LT | 29 Oct 2025 | 2 pm - 3 pm | Alex |
+| Adaptive Friction Methods | PSC LT | 5 Nov 2025 | 2 pm - 3 pm | Katerina |
 | Simulation Optim | PSC LT | 12 Nov 2025 | 2 pm - 3 pm | Luke |
 | Zeroth Order Optim | PSC LT | 19 Nov 2025 | 2 pm - 3 pm | Miles |
 | ML for Improving Optim | PSC LT | 26 Nov 2025 | 2 pm - 3 pm | Jimmy |
