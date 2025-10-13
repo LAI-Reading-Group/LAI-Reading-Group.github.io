@@ -2,6 +2,12 @@
 title: "Past Sessions"
 ---
 
+## Term 1, 25/26
+
+| Title | Date | Speaker | References |
+|:--:|:--:|:--:|:--:|
+| Intro to Optim for ML | 8 Oct 2025 | Andreas | [Slides](slides/optim/der_and_grads.pdf)
+
 ## Term 3, 24/25
 
 | Title | Date | Speaker | References |
