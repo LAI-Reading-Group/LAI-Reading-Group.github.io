@@ -7,6 +7,8 @@ title: "Past Sessions"
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
 | Intro to Optim for ML | 8 Oct 2025 | Andreas | [Slides](slides/optim/der_and_grads.pdf)
+| First Order Methods | 15 Oct 2025 | Cass | [Slides](slides/optim/first_ord.pdf)
+
 
 ## Term 3, 24/25
 

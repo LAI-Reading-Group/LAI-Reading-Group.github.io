@@ -15,7 +15,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| First Order Methods | PSC LT | 15 Oct 2025 | 2 pm - 3 pm | Cass |
+| Second Order Methods | PSC LT | 22 Oct 2025 | 2 pm - 3 pm | Andreas |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 
