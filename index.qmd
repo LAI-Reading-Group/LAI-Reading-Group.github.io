@@ -15,7 +15,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Second Order Methods | PSC LT | 22 Oct 2025 | 2 pm - 3 pm | Andreas |
+| Alternating Directed Method | PSC LT | 29 Oct 2025 | 2 pm - 3 pm | Alex |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 

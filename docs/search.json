@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning. In Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nSecond Order Methods\nPSC LT\n22 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDouble Descent\n\n\nThe famous double descent phenomenon."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning. In Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nAlternating Directed Method\nPSC LT\n29 Oct 2025\n2 pm - 3 pm\nAlex\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDouble Descent\n\n\nThe famous double descent phenomenon."
   },
   {
     "objectID": "about.html",
@@ -67,7 +67,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
   },
   {
     "objectID": "past.html#term-3-2425",
@@ -109,6 +109,6 @@
     "href": "past.html#term-1-2526",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
   }
 ]
