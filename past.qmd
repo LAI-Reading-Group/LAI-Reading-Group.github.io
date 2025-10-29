@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Alternating Directed Method |  29 Oct 2025  | Alex | [Slides](slides/optim/talk_admm.pdf)
 | Second Order Methods | 22 Oct 2025 |  Andreas | [Slides](slides/optim/second_ord.pdf)
 | First Order Methods | 15 Oct 2025 | Cass | [Slides](slides/optim/first_ord.pdf)
 | Intro to Optim for ML | 8 Oct 2025 | Andreas | [Slides](slides/optim/der_and_grads.pdf)
