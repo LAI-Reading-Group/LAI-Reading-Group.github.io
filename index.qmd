@@ -15,7 +15,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Adaptive Friction Methods | PSC LT | 5 Nov 2025 | 2 pm - 3 pm | Katerina |
+| Simulation Optim | PSC LT | 12 Nov 2025 | 2 pm - 3 pm | Luke |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 
