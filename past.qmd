@@ -6,7 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
-| Simulation Optim | 12 Nov 2025 | 12 Nov 2025 | Luke | [Slides](slides/optim/lai_presentation.pdf)
+| Simulation Optim | 12 Nov 2025 | Luke | [Slides](slides/optim/lai_presentation.pdf)
 | Adaptive Friction Methods |  5 Nov 2025 |  Katerina |
 | Alternating Directed Method |  29 Oct 2025  | Alex | [Slides](slides/optim/talk_admm.pdf)
 | Second Order Methods | 22 Oct 2025 |  Andreas | [Slides](slides/optim/second_ord.pdf)

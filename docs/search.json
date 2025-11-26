@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning. In Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nML for Improving Optim\nPSC LT\n19 Nov 2025\n2 pm - 3 pm\nJimmy\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDouble Descent\n\n\nThe famous double descent phenomenon."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning. In Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nDouble Descent\nPSC LT\n3 Dec 2025\n2 pm - 3 pm\nRay\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDouble Descent\n\n\nThe famous double descent phenomenon."
   },
   {
     "objectID": "about.html",
@@ -67,7 +67,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nSimulation Optim\n12 Nov 2025\n12 Nov 2025\nLuke\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nSimulation Optim\n12 Nov 2025\nLuke\nSlides\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
   },
   {
     "objectID": "past.html#term-3-2425",
@@ -95,7 +95,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntro to Optim for ML\nPSC LT\n8 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nFirst Order Methods\nPSC LT\n15 Oct 2025\n2 pm - 3 pm\nCass\n\n\nSecond Order Methods\nPSC LT\n22 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nAlternating Directed Method\nPSC LT\n29 Oct 2025\n2 pm - 3 pm\nAlex\n\n\nAdaptive Friction Methods\nPSC LT\n5 Nov 2025\n2 pm - 3 pm\nKaterina\n\n\nSimulation Optim\nPSC LT\n12 Nov 2025\n2 pm - 3 pm\nLuke\n\n\nML for Improving Optim\nPSC LT\n19 Nov 2025\n2 pm - 3 pm\nJimmy\n\n\nZeroth Order Optim\nPSC LT\n26 Nov 2025\n2 pm - 3 pm\nMiles\n\n\nDouble Descent\nPSC LT\n3 Dec 2025\n2 pm - 3 pm\nRui\n\n\nDistributed Optimization and Error Feedback\nPSC LT\n10 Dec 2025\n2 pm - 3 pm\nMher"
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntro to Optim for ML\nPSC LT\n8 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nFirst Order Methods\nPSC LT\n15 Oct 2025\n2 pm - 3 pm\nCass\n\n\nSecond Order Methods\nPSC LT\n22 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nAlternating Directed Method\nPSC LT\n29 Oct 2025\n2 pm - 3 pm\nAlex\n\n\nAdaptive Friction Methods\nPSC LT\n5 Nov 2025\n2 pm - 3 pm\nKaterina\n\n\nSimulation Optim\nPSC LT\n12 Nov 2025\n2 pm - 3 pm\nLuke\n\n\nDouble Descent\nPSC LT\n3 Dec 2025\n2 pm - 3 pm\nRui\n\n\nDistributed Optimization and Error Feedback\nPSC LT\n10 Dec 2025\n2 pm - 3 pm\nMher"
   },
   {
     "objectID": "resources.html#optimisation-for-ml-term-1-25-26",
@@ -109,6 +109,6 @@
     "href": "past.html#term-1-2526",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nSimulation Optim\n12 Nov 2025\n12 Nov 2025\nLuke\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nSimulation Optim\n12 Nov 2025\nLuke\nSlides\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
   }
 ]
