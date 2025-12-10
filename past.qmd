@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Distributed Optimization and Error Feedback | 10 Dec 2025  | Mher | [Slides](slides/optim/distr_optim.pdf)
 | Double Descent | 3 Dec 2025  | Rui | [Slides](slides/optim/double_descent.pdf)
 | Simulation Optim | 12 Nov 2025 | Luke | [Slides](slides/optim/lai_presentation.pdf)
 | Adaptive Friction Methods |  5 Nov 2025 |  Katerina |
