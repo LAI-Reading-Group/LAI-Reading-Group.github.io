@@ -2,6 +2,13 @@
 title: "Resources"
 ---
 
+## Bayesian Deep Learning (Term 2, 25-26)
+
+New Bayesian Deep Learning book coming out soon. Untill then you can check the following reading lists.
+
+- [Bayesian Learning and Neural Networks](https://phuijse.github.io/BLNNbook/README.html)
+- [Chin-Wei Huang's reading list](https://chinweihuang.com/pages/bdl_reading_list)
+
 ## Optimisation for ML (Term 1, 25-26)
 
 ### Textbooks

@@ -11,7 +11,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Algorithms for Optimization\nLectures on Optimization\nNumerical Optimisation"
+    "text": "New Bayesian Deep Learning book coming out soon. Untill then you can check the following reading lists.\n\nBayesian Learning and Neural Networks\nChin-Wei Huang’s reading list"
   },
   {
     "objectID": "resources.html#geometric-deep-learning-term-3-24-25",
@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning. In Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Bayesian DL\nPSC LT\n14 Jan 2025\n2 pm - 3 pm\nAndreas\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDouble Descent\n\n\nThe famous double descent phenomenon."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning.\nIn Term 2, we are doing Bayesian deep learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC LT and over Teams; Wednesday 2-3pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to Bayesian DL\nPSC LT\n14 Jan 2025\n2 pm - 3 pm\nAndreas\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDropout MC\n\n\nThe popular Dropout MC method. Image taken from here."
   },
   {
     "objectID": "about.html",
@@ -95,14 +95,14 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntro to Optim for ML\nPSC LT\n8 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nFirst Order Methods\nPSC LT\n15 Oct 2025\n2 pm - 3 pm\nCass\n\n\nSecond Order Methods\nPSC LT\n22 Oct 2025\n2 pm - 3 pm\nAndreas\n\n\nAlternating Directed Method\nPSC LT\n29 Oct 2025\n2 pm - 3 pm\nAlex\n\n\nAdaptive Friction Methods\nPSC LT\n5 Nov 2025\n2 pm - 3 pm\nKaterina\n\n\nSimulation Optim\nPSC LT\n12 Nov 2025\n2 pm - 3 pm\nLuke\n\n\nDouble Descent\nPSC LT\n3 Dec 2025\n2 pm - 3 pm\nRui\n\n\nDistributed Optimization and Error Feedback\nPSC LT\n10 Dec 2025\n2 pm - 3 pm\nMher"
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntro to BDL\nPSC LT\n14 Jan 2026\n2 pm - 3 pm\nAndreas\n\n\nLaplace Methods\nPSC LT\n21 Jan 2026\n2 pm - 3 pm\nLanya\n\n\nRobust & Conjugate Spatio-Temporal GPs\nPSC LT\n28 Jan 2026\n2 pm - 3 pm\nWilliam\n\n\nLast Layer Inference\nPSC LT\n4 Feb 2026\n2 pm - 3 pm\nPaul\n\n\nReviewing BNNs\nPSC LT\n11 Feb 2026\n2 pm - 3 pm\nJixiang\n\n\nGP Connections to BDL\nPSC LT\n27 Feb 2026\n2 pm - 3 pm\nJonas\n\n\nTBD\nPSC LT\n4 Mar 2026\n2 pm - 3 pm\nConnie\n\n\nTBD\nPSC LT\n11 Mar 2026\n2 pm - 3 pm\nChris\n\n\nProbabilistic Numerics\nPSC LT\n18 Mar 2026\n2 pm - 3 pm\nRui"
   },
   {
     "objectID": "resources.html#optimisation-for-ml-term-1-25-26",
     "href": "resources.html#optimisation-for-ml-term-1-25-26",
     "title": "Resources",
-    "section": "",
-    "text": "Algorithms for Optimization\nLectures on Optimization\nNumerical Optimisation"
+    "section": "Optimisation for ML (Term 1, 25-26)",
+    "text": "Optimisation for ML (Term 1, 25-26)\n\nTextbooks\n\nAlgorithms for Optimization\nLectures on Optimization\nNumerical Optimisation"
   },
   {
     "objectID": "past.html#term-1-2526",
@@ -110,5 +110,12 @@
     "title": "Past Sessions",
     "section": "",
     "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nDistributed Optimization and Error Feedback\n10 Dec 2025\nMher\nSlides\n\n\nDouble Descent\n3 Dec 2025\nRui\nSlides\n\n\nSimulation Optim\n12 Nov 2025\nLuke\nSlides\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
+  },
+  {
+    "objectID": "resources.html#bayesian-deep-learning-term-2-25-26",
+    "href": "resources.html#bayesian-deep-learning-term-2-25-26",
+    "title": "Resources",
+    "section": "",
+    "text": "New Bayesian Deep Learning book coming out soon. Untill then you can check the following reading lists.\n\nBayesian Learning and Neural Networks\nChin-Wei Huang’s reading list"
   }
 ]
