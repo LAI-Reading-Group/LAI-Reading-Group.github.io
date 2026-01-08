@@ -7,7 +7,7 @@ title: "Schedule"
 | Intro to BDL | PSC LT | 14 Jan 2026 | 2 pm - 3 pm | Andreas |
 | Laplace Methods | PSC LT | 21 Jan 2026 | 2 pm - 3 pm | Lanya |
 | Robust & Conjugate Spatio-Temporal GPs | PSC LT | 28 Jan 2026 | 2 pm - 3 pm | [William](https://williamlaplante.github.io) |
-| Last Layer Inference | PSC LT | 4 Feb 2026 | 2 pm - 3 pm | Paul |
+| TBD | PSC LT | 4 Feb 2026 | 2 pm - 3 pm | Paul |
 | Reviewing BNNs | PSC LT | 11 Feb 2026 | 2 pm - 3 pm | Jixiang |
 | GP Connections to BDL | PSC LT | [27 Feb 2026]{style="color:Red"} | 2 pm - 3 pm | [Jonas](https://latzplacian.org) |
 | TBD | PSC LT | 4 Mar 2026 | 2 pm - 3 pm | Connie |
