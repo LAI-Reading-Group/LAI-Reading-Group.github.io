@@ -2,6 +2,12 @@
 title: "Past Sessions"
 ---
 
+## Term 2, 25/26
+
+| Title | Date | Speaker | References |
+|:--:|:--:|:--:|:--:|
+| Intro to BDL | 14 Jan 2025 | Andreas | [Slides](slides/bdl/BDL%20Intro.pdf)
+
 ## Term 1, 25/26
 
 | Title | Date | Speaker | References |

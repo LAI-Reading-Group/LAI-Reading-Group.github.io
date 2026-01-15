@@ -67,7 +67,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nDistributed Optimization and Error Feedback\n10 Dec 2025\nMher\nSlides\n\n\nDouble Descent\n3 Dec 2025\nRui\nSlides\n\n\nSimulation Optim\n12 Nov 2025\nLuke\nSlides\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to BDL\n14 Jan 2025\nAndreas\nSlides"
   },
   {
     "objectID": "past.html#term-3-2425",
@@ -108,8 +108,8 @@
     "objectID": "past.html#term-1-2526",
     "href": "past.html#term-1-2526",
     "title": "Past Sessions",
-    "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nDistributed Optimization and Error Feedback\n10 Dec 2025\nMher\nSlides\n\n\nDouble Descent\n3 Dec 2025\nRui\nSlides\n\n\nSimulation Optim\n12 Nov 2025\nLuke\nSlides\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
+    "section": "Term 1, 25/26",
+    "text": "Term 1, 25/26\n\n\n\nTitle\nDate\nSpeaker\nReferences\n\n\n\n\nDistributed Optimization and Error Feedback\n10 Dec 2025\nMher\nSlides\n\n\nDouble Descent\n3 Dec 2025\nRui\nSlides\n\n\nSimulation Optim\n12 Nov 2025\nLuke\nSlides\n\n\nAdaptive Friction Methods\n5 Nov 2025\nKaterina\n\n\n\nAlternating Directed Method\n29 Oct 2025\nAlex\nSlides\n\n\nSecond Order Methods\n22 Oct 2025\nAndreas\nSlides\n\n\nFirst Order Methods\n15 Oct 2025\nCass\nSlides\n\n\nIntro to Optim for ML\n8 Oct 2025\nAndreas\nSlides"
   },
   {
     "objectID": "resources.html#bayesian-deep-learning-term-2-25-26",
@@ -117,5 +117,12 @@
     "title": "Resources",
     "section": "",
     "text": "New Bayesian Deep Learning book coming out soon. Untill then you can check the following reading lists.\n\nBayesian Learning and Neural Networks\nChin-Wei Huang’s reading list"
+  },
+  {
+    "objectID": "past.html#term-2-2526",
+    "href": "past.html#term-2-2526",
+    "title": "Past Sessions",
+    "section": "",
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to BDL\n14 Jan 2025\nAndreas\nSlides"
   }
 ]
