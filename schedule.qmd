@@ -5,7 +5,7 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Intro to BDL | PSC LT | 14 Jan 2026 | 2 pm - 3 pm | Andreas |
-| Laplace Methods | PSC LT | 21 Jan 2026 | 2 pm - 3 pm | Lanya |
+| Laplace Redux | PSC LT | 21 Jan 2026 | 2 pm - 3 pm | Lanya |
 | Robust & Conjugate Spatio-Temporal GPs | PSC LT | 28 Jan 2026 | 2 pm - 3 pm | [William](https://williamlaplante.github.io) |
 | TBD | PSC LT | 4 Feb 2026 | 2 pm - 3 pm | Paul |
 | Reviewing BNNs | PSC LT | 11 Feb 2026 | 2 pm - 3 pm | Jixiang |
