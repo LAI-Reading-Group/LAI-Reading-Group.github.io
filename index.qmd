@@ -16,7 +16,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Laplace Redux | PSC LT | 21 Jan 2025 | 2 pm - 3 pm | Lanya |
+| Robust & Conjugate Spatio-Temporal GPs | PSC LT | 28 Jan 2026 | 2 pm - 3 pm | [William](https://williamlaplante.github.io) |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 
