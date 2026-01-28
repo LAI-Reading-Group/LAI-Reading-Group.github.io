@@ -16,7 +16,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Robust & Conjugate Spatio-Temporal GPs | PSC LT | 28 Jan 2026 | 2 pm - 3 pm | [William](https://williamlaplante.github.io) |
+| Epistemic Neural Networks | PSC LT | 4 Feb 2026 | 2 pm - 3 pm | Paul |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 
