@@ -16,7 +16,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Epistemic Neural Networks | PSC LT | 4 Feb 2026 | 2 pm - 3 pm | Paul |
+| Reviewing BNNs | PSC LT | 11 Feb 2026 | 2 pm - 3 pm | Jixiang |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 

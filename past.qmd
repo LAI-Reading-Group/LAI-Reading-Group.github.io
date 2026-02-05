@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Epistemic Neural Networks | 4 Feb 2026 | Paul | [Slides](slides/bdl/epinets.pdf)
 | Robust & Conjugate Spatio-Temporal GPs | 28 Jan 2026 |[William](https://williamlaplante.github.io) | [Slides](slides/bdl/william.pdf)
 | Laplace Redux | 21 Jan 2025 | Lanya | [Slides](slides/bdl/Laplace_slides.pdf)
 | Intro to BDL | 14 Jan 2025 | Andreas | [Slides](slides/bdl/BDL%20Intro.pdf)
