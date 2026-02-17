@@ -12,4 +12,4 @@ title: "Schedule"
 | GP Connections to BDL | PSC LT | [27 Feb 2026]{style="color:Red"} | 2 pm - 3 pm | [Jonas](https://latzplacian.org) |
 | TBD | PSC LT | 4 Mar 2026 | 2 pm - 3 pm | Connie |
 | TBD | PSC LT | 11 Mar 2026 | 2 pm - 3 pm | Chris |
-| Probabilistic Numerics | PSC LT | 18 Mar 2026 | 2 pm - 3 pm | Rui |
+| Active Learning | PSC LT | 18 Mar 2026 | 2 pm - 3 pm | Rui |
