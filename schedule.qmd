@@ -13,3 +13,4 @@ title: "Schedule"
 | TBD | PSC LT | 4 Mar 2026 | 2 pm - 3 pm | Connie |
 | TBD | PSC LT | 11 Mar 2026 | 2 pm - 3 pm | Chris |
 | Active Learning | PSC LT | 18 Mar 2026 | 2 pm - 3 pm | Rui |
+| Intelligent data acquisition using Bayesian principles | PSC LT | [27 Mar 2026]{style="color:Red"} | 2 pm - 3 pm | [Freddie](https://fbickfordsmith.com) |
