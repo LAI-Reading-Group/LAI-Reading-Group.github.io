@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| GP Connections to BDL | 27 Feb 2026 | [Jonas](https://latzplacian.org) |
 | Reviewing BNNs | 11 Feb 2026 | Jixiang | [Slides](slides/bdl/BNN_Talk%20(57).pdf)
 | Epistemic Neural Networks | 4 Feb 2026 | Paul | [Slides](slides/bdl/epinets.pdf)
 | Robust & Conjugate Spatio-Temporal GPs | 28 Jan 2026 |[William](https://williamlaplante.github.io) | [Slides](slides/bdl/william.pdf)

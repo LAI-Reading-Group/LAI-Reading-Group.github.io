@@ -10,7 +10,7 @@ title: "Schedule"
 | Epistemic Neural Networks | PSC LT | 4 Feb 2026 | 2 pm - 3 pm | Paul |
 | Reviewing BNNs | PSC LT | 11 Feb 2026 | 2 pm - 3 pm | Jixiang |
 | GP Connections to BDL | PSC Lab 2 | [27 Feb 2026]{style="color:Red"} | 2 pm - 3 pm | [Jonas](https://latzplacian.org) |
-| TBD | PSC LT | 4 Mar 2026 | 2 pm - 3 pm | Connie |
+| Stochastic Gradient MCMC | PSC LT | 4 Mar 2026 | 2 pm - 3 pm | Connie |
 | TBD | PSC LT | 11 Mar 2026 | 2 pm - 3 pm | Chris |
 | Probabilistic Numerics | PSC LT | 18 Mar 2026 | 2 pm - 3 pm | Rui |
 | Intelligent data acquisition using Bayesian principles | PSC LT | [27 Mar 2026]{style="color:Red"} | 2 pm - 3 pm | [Freddie](https://fbickfordsmith.com) |
