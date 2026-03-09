@@ -6,7 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
-| Stochastic Gradient MCMC |  4 Mar 2026  | Connie |
+| Stochastic Gradient MCMC |  4 Mar 2026  | Connie | [Slides](slides/bdl/LAI_talk_03_26_SGMCMC.pdf)
 | GP Connections to BDL | 27 Feb 2026 | [Jonas](https://latzplacian.org) |
 | Reviewing BNNs | 11 Feb 2026 | Jixiang | [Slides](slides/bdl/BNN_Talk%20(57).pdf)
 | Epistemic Neural Networks | 4 Feb 2026 | Paul | [Slides](slides/bdl/epinets.pdf)
