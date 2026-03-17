@@ -12,4 +12,5 @@ title: "Schedule"
 | GP Connections to BDL | PSC Lab 2 | [27 Feb 2026]{style="color:Red"} | 2 pm - 3 pm | [Jonas](https://latzplacian.org) |
 | Stochastic Gradient MCMC | PSC LT | 4 Mar 2026 | 2 pm - 3 pm | Connie |
 | Probabilistic Numerics | PSC LT | 18 Mar 2026 | 2 pm - 3 pm | Rui |
+| A Clean Slate for Offline Reinforcement Learning | PSC LT | 20 Mar 2026 | 3 pm - 4 pm |[Matt](https://matthewtjackson.com)
 | Intelligent data acquisition using Bayesian principles | PSC LT | [27 Mar 2026]{style="color:Red"} | 2 pm - 3 pm | [Freddie](https://fbickfordsmith.com) |
