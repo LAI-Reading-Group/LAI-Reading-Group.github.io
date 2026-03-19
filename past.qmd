@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Probabilistic Numerics | 18 Mar 2026 | Rui | [Slides](slides/bdl/probnum_LAI.pdf)
 | Stochastic Gradient MCMC |  4 Mar 2026  | Connie | [Slides](slides/bdl/LAI_talk_03_26_SGMCMC.pdf)
 | GP Connections to BDL | 27 Feb 2026 | [Jonas](https://latzplacian.org) |
 | Reviewing BNNs | 11 Feb 2026 | Jixiang | [Slides](slides/bdl/BNN_Talk%20(57).pdf)

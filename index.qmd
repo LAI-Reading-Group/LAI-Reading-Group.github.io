@@ -16,7 +16,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Probabilistic Numerics | PSC LT | 18 Mar 2026 | 2 pm - 3 pm | Rui |
+| A Clean Slate for Offline Reinforcement Learning | Fylde LT 2 A16 | 20 Mar 2026 | 3 pm - 4 pm |[Matt](https://matthewtjackson.com)
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 
