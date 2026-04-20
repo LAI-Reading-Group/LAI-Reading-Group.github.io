@@ -6,6 +6,7 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Intelligent data acquisition using Bayesian principles | 27 Mar 2026 | [Freddie](https://fbickfordsmith.com) | [Slides](slides/bdl/freddie.pdf)
 | A Clean Slate for Offline RL | 20 Mar 2026 | [Matt](https://matthewtjackson.com) | [Slides](slides/trends_2026/unifloral_slides.pdf)
 | Probabilistic Numerics | 18 Mar 2026 | Rui | [Slides](slides/bdl/probnum_LAI.pdf)
 | Stochastic Gradient MCMC |  4 Mar 2026  | Connie | [Slides](slides/bdl/LAI_talk_03_26_SGMCMC.pdf)
