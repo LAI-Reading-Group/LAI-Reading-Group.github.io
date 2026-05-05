@@ -5,10 +5,10 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | ODEFormer | PSC Lab 2 | 6 May 2026 | 3 pm - 4 pm | Cass |
-| TBD | PSC Lab 2 | 13 May 2026 | 3 pm - 4 pm | Abiel |
+| From Scale to Speed: Adaptive Test-Time Scaling for Image Editing | PSC Lab 2 | 13 May 2026 | 3 pm - 4 pm | Andreas |
 | Reverse Engineering Human Preferences with RL | PSC Lab 2 | 20 May 2026 | 3 pm - 4 pm | [Lisa](https://lisaalaz.github.io) |
 | TBD | PSC Lab 2 | 27 May 2026 | 3 pm - 4 pm | Jixiang |
 | Score Matching with Missing Data | PSC Lab 2 | 3 June 2026 | 3 pm - 4 pm | [Josh](https://scholar.google.com/citations?user=mv0ieOsAAAAJ&hl=en) |
 | High-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics | PSC Lab 2 | 10 June 2026 | 3 pm - 4 pm | [Valentin](https://sites.google.com/view/valentinschmutz) |
 | TBD | PSC Lab 2 | 17 June 2026 | 3 pm - 4 pm | Chris |
-| TBD | PSC Lab 2 | 24 June 2026 | 3 pm - 4 pm | Andreas |
+| TBD | PSC Lab 2 | 24 June 2026 | 3 pm - 4 pm | Abiel |
