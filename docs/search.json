@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning.\nIn Term 2, we are doing Bayesian deep learning.\nIn Term 3, we are doing trends in Machine Learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC Lab 2 and over Teams; Wednesday 3-4pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nTBD\nPSC Lab 2\n27 May 2026\n3 pm - 4 pm\nJixiang\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDropout MC\n\n\nThe popular Dropout MC method. Image taken from here."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing optimisation for machine learning.\nIn Term 2, we are doing Bayesian deep learning.\nIn Term 3, we are doing trends in Machine Learning. If you are interested in giving a talk please contact Andreas or Cass.\nPSC Lab 2 and over Teams; Wednesday 3-4pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nHigh-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics\nPSC Lab 2\n10 June 2026\n3 pm - 4 pm\nValentin\n\n\n\nEmail Andreas or Cass for any question related to the reading group.\n\n\n\nDropout MC\n\n\nThe popular Dropout MC method. Image taken from here."
   },
   {
     "objectID": "about.html",
@@ -67,7 +67,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nReverse Engineering Human Preferences with RL\n20 May 2026\nLisa\nSlides\n\n\nFrom Scale to Speed: Adaptive Test-Time Scaling for Image Editing\n13 May 2026\nAndreas\nSlides\n\n\nODEFormer\n6 May 2026\nCass\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nScore Matching with Missing Data\n3 June 2026\nJosh\nPaper\n\n\nGLASS Flows\n27 May 2026\nJixiang\nPaper\n\n\nReverse Engineering Human Preferences with RL\n20 May 2026\nLisa\nSlides\n\n\nFrom Scale to Speed: Adaptive Test-Time Scaling for Image Editing\n13 May 2026\nAndreas\nSlides\n\n\nODEFormer\n6 May 2026\nCass\nSlides"
   },
   {
     "objectID": "past.html#term-3-2425",
@@ -95,7 +95,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nODEFormer\nPSC Lab 2\n6 May 2026\n3 pm - 4 pm\nCass\n\n\nFrom Scale to Speed: Adaptive Test-Time Scaling for Image Editing\nPSC Lab 2\n13 May 2026\n3 pm - 4 pm\nAndreas\n\n\nReverse Engineering Human Preferences with RL\nPSC Lab 2\n20 May 2026\n3 pm - 4 pm\nLisa\n\n\nTBD\nPSC Lab 2\n27 May 2026\n3 pm - 4 pm\nJixiang\n\n\nScore Matching with Missing Data\nPSC Lab 2\n3 June 2026\n3 pm - 4 pm\nJosh\n\n\nHigh-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics\nPSC Lab 2\n10 June 2026\n3 pm - 4 pm\nValentin\n\n\nTBD\nPSC Lab 2\n17 June 2026\n3 pm - 4 pm\nChris\n\n\nTBD\nPSC Lab 2\n24 June 2026\n3 pm - 4 pm\nAbiel"
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nODEFormer\nPSC Lab 2\n6 May 2026\n3 pm - 4 pm\nCass\n\n\nFrom Scale to Speed: Adaptive Test-Time Scaling for Image Editing\nPSC Lab 2\n13 May 2026\n3 pm - 4 pm\nAndreas\n\n\nReverse Engineering Human Preferences with RL\nPSC Lab 2\n20 May 2026\n3 pm - 4 pm\nLisa\n\n\nGLASS Flows\nPSC Lab 2\n27 May 2026\n3 pm - 4 pm\nJixiang\n\n\nScore Matching with Missing Data\nPSC Lab 2\n3 June 2026\n3 pm - 4 pm\nJosh\n\n\nHigh-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics\nPSC Lab 2\n10 June 2026\n3 pm - 4 pm\nValentin\n\n\nTBD\nPSC Lab 2\n17 June 2026\n3 pm - 4 pm\nChris\n\n\nBulk-Calibrated Credal Ambiguity Sets\nPSC Lab 2\n24 June 2026\n3 pm - 4 pm\nMengqi"
   },
   {
     "objectID": "resources.html#optimisation-for-ml-term-1-25-26",
@@ -130,6 +130,6 @@
     "href": "past.html#term-3-2526",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nReverse Engineering Human Preferences with RL\n20 May 2026\nLisa\nSlides\n\n\nFrom Scale to Speed: Adaptive Test-Time Scaling for Image Editing\n13 May 2026\nAndreas\nSlides\n\n\nODEFormer\n6 May 2026\nCass\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nScore Matching with Missing Data\n3 June 2026\nJosh\nPaper\n\n\nGLASS Flows\n27 May 2026\nJixiang\nPaper\n\n\nReverse Engineering Human Preferences with RL\n20 May 2026\nLisa\nSlides\n\n\nFrom Scale to Speed: Adaptive Test-Time Scaling for Image Editing\n13 May 2026\nAndreas\nSlides\n\n\nODEFormer\n6 May 2026\nCass\nSlides"
   }
 ]

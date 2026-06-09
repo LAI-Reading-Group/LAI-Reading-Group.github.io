@@ -18,7 +18,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| TBD | PSC Lab 2 | 27 May 2026 | 3 pm - 4 pm | Jixiang |
+| High-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics | PSC Lab 2 | 10 June 2026 | 3 pm - 4 pm | [Valentin](https://sites.google.com/view/valentinschmutz) |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
 

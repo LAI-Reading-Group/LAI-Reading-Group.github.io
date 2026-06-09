@@ -5,6 +5,8 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Score Matching with Missing Data | 3 June 2026 | [Josh](https://scholar.google.com/citations?user=mv0ieOsAAAAJ&hl=en) | [Paper](https://arxiv.org/abs/2506.00557)
+| GLASS Flows | 27 May 2026 | Jixiang | [Paper](https://openreview.net/forum?id=vH7OAPZ2dR)
 | Reverse Engineering Human Preferences with RL |  20 May 2026 |  [Lisa](https://lisaalaz.github.io) | [Slides](slides/trends_2026/RLRE%20slides%20-%20Lancaster.pdf)
 | From Scale to Speed: Adaptive Test-Time Scaling for Image Editing | 13 May 2026 | Andreas | [Slides](slides/trends_2026/ADE-CoT_Trends_in_ML.pptx)
 | ODEFormer | 6 May 2026 | Cass | [Slides](slides/trends_2026/ODEFormerPresentation-3.pdf)
