@@ -4,11 +4,7 @@ title: "LAI Reading Group"
 
 Lancaster AI (**LAI**) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the [Prob_AI Hub](https://www.probai.uk/).
 
-In Term 1, we are doing **optimisation for machine learning**.
-
-In Term 2, we are doing **Bayesian deep learning**. 
-
-In Term 3, we are doing **trends in Machine Learning**. If you are interested in giving a talk please contact [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk).
+In Term 1, we are doing **natural language processing**. If you are interested in giving a talk please contact [Andreas](mailto:a.makris@lancaster.ac.uk) or [Lanya](mailto:l.yang28@lancaster.ac.uk).
 
 [**PSC Lab 2 and over Teams; Wednesday 3-4pm (mostly)**]{style="color:Blue"}.
 
@@ -18,10 +14,10 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| High-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics | PSC Lab 2 | 10 June 2026 | 3 pm - 4 pm | [Valentin](https://sites.google.com/view/valentinschmutz) |
+| Introduction to NLP | TBC | 14 Oct 2026 | 3 pm - 4 pm | Andreas |
 
-Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Cass](mailto:c.durr@lancaster.ac.uk) for any question related to the reading group. 
+Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Lanya](mailto:l.yang28@lancaster.ac.uk) for any question related to the reading group. 
 
-![Dropout MC](mcdrop.png)
+![NLP](lai_nlp.png)
 
-The popular [Dropout MC method](https://arxiv.org/abs/1506.02142). Image taken from [here](https://www.themoonlight.io/tw/review/testing-spintronics-implemented-monte-carlo-dropout-based-bayesian-neural-networks).
+Image generated with GPT Image 2.

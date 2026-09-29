@@ -5,6 +5,9 @@ title: "Past Sessions"
 
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
+| Bulk-Calibrated Credal Ambiguity Sets | 24 June 2026 | [Mengqi](https://mengqichenmc.github.io) | [Slides](slides/trends_2026/mengqi.pdf)
+| From Muon Optimisation to Bayesian Sampling | 3 June 2026 | Chris
+| High-Dimensional Neuronal Activity from Low-Dimensional Latent Dynamics | 10 June 2026 | [Valentin](https://sites.google.com/view/valentinschmutz?pli=1&authuser=0) | [Paper](https://openreview.net/pdf?id=cGks3s79hW)
 | Score Matching with Missing Data | 3 June 2026 | [Josh](https://scholar.google.com/citations?user=mv0ieOsAAAAJ&hl=en) | [Paper](https://arxiv.org/abs/2506.00557)
 | GLASS Flows | 27 May 2026 | Jixiang | [Paper](https://openreview.net/forum?id=vH7OAPZ2dR)
 | Reverse Engineering Human Preferences with RL |  20 May 2026 |  [Lisa](https://lisaalaz.github.io) | [Slides](slides/trends_2026/RLRE%20slides%20-%20Lancaster.pdf)
