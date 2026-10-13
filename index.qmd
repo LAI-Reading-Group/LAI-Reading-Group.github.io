@@ -14,7 +14,7 @@ See [here](./schedule.html) for the **full schedules**; [here](./past.html) for 
 
 | Title | Location | Date | Time | Speaker |
 |:------------------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Introduction to NLP | TBC | 14 Oct 2026 | 3 pm - 4 pm | Andreas |
+| Introduction to NLP | Charles Carter A02 & Teams | 14 Oct 2026 | 3 pm - 4 pm | Andreas |
 
 Email [Andreas](mailto:a.makris@lancaster.ac.uk) or [Lanya](mailto:l.yang28@lancaster.ac.uk) for any question related to the reading group. 
 
