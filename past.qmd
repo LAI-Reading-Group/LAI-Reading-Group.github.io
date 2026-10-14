@@ -1,6 +1,12 @@
 ---
 title: "Past Sessions"
 ---
+## Term 1, 26/27
+| Title | Date | Speaker | References |
+|:--:|:--:|:--:|:--:|
+| Intro to NLP | 14 Oct 2026 | Andreas | [Slides](slides/nlp/intro.pdf)
+
+
 ## Term 3, 25/26
 
 | Title | Date | Speaker | References |
