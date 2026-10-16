@@ -5,7 +5,7 @@ title: "Schedule"
 | Title | Location | Date | Time | Speaker |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Introduction to NLP | Charles Carter A02 & Teams | 14 Oct 2026 | 3 pm - 4 pm | Andreas |
-| TBD | Charles Carter A02 & Teams | 21 Oct 2026 | 3 pm - 4 pm | Damith |
+| Legal NLP | Charles Carter A02 & Teams | 21 Oct 2026 | 3 pm - 4 pm | [Damith](https://scholar.google.com/citations?user=4G1WhxMAAAAJ&hl=en) |
 | TBD | Charles Carter A02 & Teams | 28 Oct 2026 | 3 pm - 4 pm | TBD |
 | TBD | Charles Carter A02 & Teams | 4 Nov 2026 | 3 pm - 4 pm | Congye |
 | TBD | Charles Carter A02 & Teams | 11 Nov 2026 | 3 pm - 4 pm | Rick |
