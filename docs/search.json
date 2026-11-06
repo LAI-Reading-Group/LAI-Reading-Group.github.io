@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "LAI Reading Group",
     "section": "",
-    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing natural language processing. If you are interested in giving a talk please contact Andreas or Lanya.\nPSC Lab 2 and over Teams; Wednesday 3-4pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nLegal NLP\nCharles Carter A02 & Teams\n21 Oct 2026\n3 pm - 4 pm\nDamith\n\n\n\nEmail Andreas or Lanya for any question related to the reading group.\n\n\n\nNLP\n\n\nImage generated with GPT Image 2."
+    "text": "Lancaster AI (LAI) reading group is a weekly reading group focusing on topics related to AI, including but not limited to: diffusion models, information geometry, stochastic optimisation, geometric deep learning. It will be more tutorial-styled, instead of seminar-styled, tailored more towards people who wish to learn more about the recent developments of AI. This reading group is supported by the Prob_AI Hub.\nIn Term 1, we are doing natural language processing. If you are interested in giving a talk please contact Andreas or Lanya.\nPSC Lab 2 and over Teams; Wednesday 3-4pm (mostly).\nSee here for the full schedules; here for past sessions.\n\nNext Session\n\n\n\n\n\n\n\n\n\n\nTitle\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nMasked Diffusion Models\nCharles Carter A02 & Teams\n 19 Nov 2026 \n 12 pm - 1 pm \nDawid\n\n\n\nEmail Andreas or Lanya for any question related to the reading group.\n\n\n\nNLP\n\n\nImage generated with GPT Image 2."
   },
   {
     "objectID": "about.html",
@@ -67,7 +67,7 @@
     "href": "past.html",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to NLP\n14 Oct 2026\nAndreas\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to NLP\n14 Oct 2026\nAndreas\nSlides\n\n\nPower Distributions of LLMs\n28 Oct 2026\nAbiel\n\n\n\nCombining LoRAs\n4 Nov 2026\nCongye\nSlides"
   },
   {
     "objectID": "past.html#term-3-2425",
@@ -95,7 +95,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to NLP\nCharles Carter A02 & Teams\n14 Oct 2026\n3 pm - 4 pm\nAndreas\n\n\nLegal NLP\nCharles Carter A02 & Teams\n21 Oct 2026\n3 pm - 4 pm\nDamith\n\n\nTBD\nCharles Carter A02 & Teams\n28 Oct 2026\n3 pm - 4 pm\nAbiel\n\n\nTBD\nCharles Carter A02 & Teams\n4 Nov 2026\n3 pm - 4 pm\nCongye\n\n\nTBD\nCharles Carter A02 & Teams\n11 Nov 2026\n3 pm - 4 pm\nRick\n\n\nMasked Diffusion Models\nCharles Carter A02 & Teams\n18 Nov 2026\n3 pm - 4 pm\nDawid\n\n\nTBD\nCharles Carter A02 & Teams\n25 Nov 2026\n3 pm - 4 pm\nKai\n\n\nTBD\nCharles Carter A02 & Teams\n2 Dec 2026\n3 pm - 4 pm\nTBD\n\n\nTBD\nCharles Carter A02 & Teams\n9 Dec 2026\n3 pm - 4 pm\nTBD"
+    "text": "Title\nLocation\nDate\nTime\nSpeaker\n\n\n\n\nIntroduction to NLP\nCharles Carter A02 & Teams\n14 Oct 2026\n3 pm - 4 pm\nAndreas\n\n\nLegal NLP\nCharles Carter A02 & Teams\n21 Oct 2026\n3 pm - 4 pm\nDamith\n\n\nPower Distributions of LLMs\nCharles Carter A02 & Teams\n28 Oct 2026\n3 pm - 4 pm\nAbiel\n\n\nCombining LoRAs\nCharles Carter A02 & Teams\n4 Nov 2026\n3 pm - 4 pm\nCongye\n\n\nMasked Diffusion Models\nCharles Carter A02 & Teams\n 19 Nov 2026 \n 12 pm - 1 pm \nDawid\n\n\nTBD\nCharles Carter A02 & Teams\n25 Nov 2026\n3 pm - 4 pm\nKai\n\n\nTBD\nCharles Carter A02 & Teams\n2 Dec 2026\n3 pm - 4 pm\nTBD\n\n\nTBD\nCharles Carter A02 & Teams\n9 Dec 2026\n3 pm - 4 pm\nTBD"
   },
   {
     "objectID": "resources.html#optimisation-for-ml-term-1-25-26",
@@ -137,6 +137,6 @@
     "href": "past.html#term-1-2627",
     "title": "Past Sessions",
     "section": "",
-    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to NLP\n14 Oct 2026\nAndreas\nSlides"
+    "text": "Title\nDate\nSpeaker\nReferences\n\n\n\n\nIntro to NLP\n14 Oct 2026\nAndreas\nSlides\n\n\nPower Distributions of LLMs\n28 Oct 2026\nAbiel\n\n\n\nCombining LoRAs\n4 Nov 2026\nCongye\nSlides"
   }
 ]

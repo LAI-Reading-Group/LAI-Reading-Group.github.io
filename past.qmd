@@ -5,6 +5,9 @@ title: "Past Sessions"
 | Title | Date | Speaker | References |
 |:--:|:--:|:--:|:--:|
 | Intro to NLP | 14 Oct 2026 | Andreas | [Slides](slides/nlp/intro.pdf)
+| Power Distributions of LLMs | 28 Oct 2026 | Abiel |
+| Combining LoRAs | 4 Nov 2026 | Congye | [Slides](slides/nlp/congye.pdf) 
+
 
 
 ## Term 3, 25/26
